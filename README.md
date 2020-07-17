@@ -1,2 +1,2 @@
-# ITGigs
-Blazor web app hosted on....
+# leftovers
+Junkyard for various helpful code implementations in C#
