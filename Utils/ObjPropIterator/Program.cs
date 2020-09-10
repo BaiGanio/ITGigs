@@ -13,7 +13,7 @@ namespace ObjPropIterator
         {
             DateTime currentDate;
             DateTime.TryParse("fiki", out currentDate);
-            MyClass mc = new MyClass(null,"fiki");
+            MyClass mc = new MyClass(2,"fiki");
 
             PropertyInfo[] properties = mc.GetType().GetProperties();
             var searchParams = new List<object>();

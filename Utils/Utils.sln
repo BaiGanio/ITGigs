@@ -41,7 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IBANChecker", "IBANChecker\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoslynBasics", "RoslynBasics\RoslynBasics.csproj", "{27EE9B77-8BF4-461B-AC8F-6E209A8560EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlToPDF", "HtmlToPDF\HtmlToPDF.csproj", "{5E24F759-0F71-48D6-B450-DA46C8ACA10F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HtmlToPDF", "HtmlToPDF\HtmlToPDF.csproj", "{5E24F759-0F71-48D6-B450-DA46C8ACA10F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MemoryAddressOfAnObject", "MemoryAddressOfAnObject\MemoryAddressOfAnObject.csproj", "{2D2083FE-77B5-4179-8A7D-C261CBAAAE97}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBContectConsumer", "DBContectConsumer\DBContectConsumer.csproj", "{271F2AE3-FD29-4F9A-80C7-5734D7359D65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +129,14 @@ Global
 		{5E24F759-0F71-48D6-B450-DA46C8ACA10F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E24F759-0F71-48D6-B450-DA46C8ACA10F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E24F759-0F71-48D6-B450-DA46C8ACA10F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D2083FE-77B5-4179-8A7D-C261CBAAAE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D2083FE-77B5-4179-8A7D-C261CBAAAE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D2083FE-77B5-4179-8A7D-C261CBAAAE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D2083FE-77B5-4179-8A7D-C261CBAAAE97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{271F2AE3-FD29-4F9A-80C7-5734D7359D65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271F2AE3-FD29-4F9A-80C7-5734D7359D65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271F2AE3-FD29-4F9A-80C7-5734D7359D65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271F2AE3-FD29-4F9A-80C7-5734D7359D65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
