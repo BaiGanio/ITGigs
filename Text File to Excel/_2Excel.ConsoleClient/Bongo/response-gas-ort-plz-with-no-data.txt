@@ -1,0 +1,119 @@
+01762 | Hartmannsdorf-Reichenau | No data... |
+04207 | Leipzig | 4h Monthly cost (€ per month) - 12.625 | 4h unit rate (€ per kWh) - 0.04492
+04435 | Flughafen Leipzig/Halle | No data... |
+04435 | Flughafen Leipzig/Halle | No data... |
+06749 | Bitterfeld-Wolfen | No data... |
+06766 | Bitterfeld-Wolfen | No data... |
+08491 | Jägerhaus | No data... |
+08525 | Kauschwitz | No data... |
+08527 | Neundorf | No data... |
+08527 | Straßberg | No data... |
+13503 | Berlin | No data... |
+14974 | Ludwigsfelde | No data... |
+14974 | Ludwigsfelde | No data... |
+16827 | Alt Ruppin | No data... |
+21481 | Buchhorst | No data... |
+21481 | Schnakenbek | No data... |
+21483 | Basedow | No data... |
+21483 | Dalldorf | No data... |
+21483 | Juliusburg | No data... |
+21483 | Krukow | No data... |
+21483 | Krüzen | No data... |
+21483 | Lanze | No data... |
+21483 | Lütau | No data... |
+21483 | Wangelau | No data... |
+24241 | Blumenthal | No data... |
+24241 | Grevenkrug | No data... |
+24241 | Reesdorf | No data... |
+24241 | Schmalstede | No data... |
+24241 | Sören | No data... |
+24582 | Groß Buchwald | No data... |
+24582 | Groß Buchwald | No data... |
+24582 | Hoffeld | No data... |
+24582 | Hoffeld | No data... |
+24589 | Nortorf | No data... |
+25335 | Raa-Besenbek | No data... |
+25365 | Klein Offenseth-Sparrieshoop | No data... |
+27572 | Bremerhaven | No data... |
+28865 | Lilienthal | No data... |
+28865 | Lilienthal | No data... |
+31089 | Duingen | No data... |
+32107 | Bad Salzuflen | No data... |
+32108 | Bad Salzuflen | No data... |
+33154 | Salzkotten | No data... |
+33758 | Schloß Holte-Stukenbrock | No data... |
+33758 | Schloß Holte-Stukenbrock | No data... |
+35119 | Rosenthal | No data... |
+35216 | Waldhaus Grebe | No data... |
+35285 | Gemünden | No data... |
+36284 | Hohenroda | No data... |
+37115 | Duderstadt | No data... |
+37115 | Duderstadt | No data... |
+38154 | Brunsleberfeld | No data... |
+38822 | Neu Runstedt | No data... |
+38822 | Veltensmühle | No data... |
+39279 | Schweinitz | No data... |
+39279 | Schweinitz | No data... |
+49434 | Neuenkirchen-Vörden | No data... |
+56332 | Niederfell | No data... |
+57520 | Rosenheimerlay | No data... |
+67292 | Heubergerhof | No data... |
+67292 | Pulvermühle | No data... |
+67316 | Junghof | No data... |
+67316 | Neuhof | No data... |
+67316 | Neuwoog | No data... |
+67466 | Breitenstein | No data... |
+67466 | Erfenstein | No data... |
+67468 | Sattelmühle | No data... |
+69412 | Igelsbach | No data... |
+71543 | Stocksberg, Gem Beilstein | No data... |
+71711 | Hinterbirkenhof | No data... |
+72070 | Hohenentringen | No data... |
+72160 | Oberer Eutinger Talhof | No data... |
+72172 | Sulz | No data... |
+73529 | Pfeilhalde | No data... |
+73529 | Schwäbisch Gmünd | No data... |
+73550 | Hummelshalden | No data... |
+73635 | Obersteinenberg | No data... |
+74597 | Mittelmühle | No data... |
+76547 | Sinzheim | No data... |
+77883 | Ottenhöfen | No data... |
+78132 | Hornberg | 4h Monthly cost (€ per month) - 16.19 | 4h unit rate (€ per kWh) - 0.04576
+78247 | Hilzingen | No data... |
+78256 | Steißlingen | No data... |
+79856 | Hinterzarten | No data... |
+82475 | Schneefernerhaus | No data... |
+82481 | Mittenwald | No data... |
+83101 | Rohrdorf | No data... |
+84036 | Landshut | No data... |
+84347 | Pfarrkirchen | No data... |
+84419 | Schwindegg | No data... |
+84453 | Mühldorf | No data... |
+85104 | Pförring | No data... |
+87463 | Dietmannsried | No data... |
+87549 | Rettenberg | No data... |
+87637 | Seeg | No data... |
+88453 | Erolzheim | No data... |
+88512 | Mengen | No data... |
+90537 | Feucht | No data... |
+90537 | Feucht | No data... |
+91094 | Langensendelbach | No data... |
+91126 | Schwabach | No data... |
+91361 | Pinzberg | No data... |
+91452 | Wilhermsdorf | No data... |
+91788 | Pappenheim | No data... |
+92348 | Großwiesenhof | No data... |
+93093 | Donaustauf | No data... |
+93093 | Donaustauf | No data... |
+93449 | Geigant | No data... |
+93470 | Lohberg | No data... |
+94130 | Obernzell | No data... |
+94157 | Perlesreut | No data... |
+95197 | Schauenstein | No data... |
+95236 | Stammbach | No data... |
+95236 | Stammbach | No data... |
+95682 | Brand | No data... |
+97350 | Mainbernheim | No data... |
+97833 | Frammersbach | No data... |
+97833 | Frammersbach | No data... |
+97993 | Creglingen | No data... |

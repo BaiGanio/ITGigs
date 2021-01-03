@@ -1,0 +1,7 @@
+Silvia 6 FacultyNumber:78688
+Pesho 6 FacultyNumber:656465
+Bunny 2 FacultyNumber:0898
+Duck 2 FacultyNumber:7875665
+Taz 4 FacultyNumber:8656453
+Lyuben 5 FacultyNumber:0328009
+Ivan 3 FacultyNumber:69007

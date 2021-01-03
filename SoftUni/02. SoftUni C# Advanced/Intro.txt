@@ -1,0 +1,4 @@
+C# is perfect for development. It's a language who is 
+helping the developer.
+
+Stacks & Queues are more limited than Lists

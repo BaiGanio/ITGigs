@@ -1,0 +1,2358 @@
+	2979|Burghammer|Energieversorgung Schwarze Elster GmbH|1097.13|  Gas operator not found.
+	3238|Betten|SpreeGas Gesellschaft für Gasversorgung|928.36|  Gas operator not found.
+	3238|Lindthal|SpreeGas Gesellschaft für Gasversorgung|928.36|  Gas operator not found.
+	4603|Göhren|Thüringer Energie AG |998.67|  Gas operator not found.
+	4603|Göhren|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Drogen|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Drogen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Göllnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Göllnitz|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Heukewalde|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Heukewalde|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Heyersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Heyersdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Jonaswalde|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Jonaswalde|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Mehna|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Mehna|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Posterstein|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Posterstein|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Thonhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Thonhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Vollmershain|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Vollmershain|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	4626|Wildenbörten|Thüringer Energie AG |998.67|  Gas operator not found.
+	4626|Wildenbörten|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Arensdorf|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Arensdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Dohndorf|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Dohndorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Glauzig|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Glauzig|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Görzig|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Görzig|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Libehna|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Libehna|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Löbnitz an der Linde|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Löbnitz an der Linde|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Merzien|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Merzien|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Prosigk|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Prosigk|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Reupzig|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Reupzig|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Riesdorf|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Riesdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6369|Trebbichau|Köthen Energie GmbH|1106.7|  Gas operator not found.
+	6369|Trebbichau|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6642|Kaiserpfalz|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6642|Nebra|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6642|Zuckerfabrik Vitzenburg|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6682|Teuchern|Thüringer Energie AG |998.67|  Gas operator not found.
+	6682|Teuchern|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6686|Lützen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	6712|Kretzschau|Thüringer Energie AG |998.67|  Gas operator not found.
+	6712|Kretzschau|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7318|Wittgendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7333|Unterwellenborn|Stadtwerke Saalfeld GmbH|878.22|  Gas operator not found.
+	7338|Altenbeuthen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7338|Drognitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7338|Hohenwarte|Thüringer Energie AG |998.67|  Gas operator not found.
+	7338|Kaulsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7356|Neundorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7381|Moxa|Thüringer Energie AG |998.67|  Gas operator not found.
+	7381|Oberoppurg|Thüringer Energie AG |998.67|  Gas operator not found.
+	7381|Paska|Thüringer Energie AG |998.67|  Gas operator not found.
+	7381|Solkwitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7381|Wernburg|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Bucha|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Grobengereuth|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Gössitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Keila|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Knau|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Quaschwitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Schmorda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Seisla|Thüringer Energie AG |998.67|  Gas operator not found.
+	7389|Wilhelmsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7426|Bechstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	7426|Oberhain|Thüringer Energie AG |998.67|  Gas operator not found.
+	7429|Döschnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7429|Rohrbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Bethenhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Bethenhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7554|Brahmenau|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Brahmenau|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7554|Hirschfeld|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Hirschfeld|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7554|Kauern|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Kauern|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7554|Pölzig|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Pölzig|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7554|Schwaara|Thüringer Energie AG |998.67|  Gas operator not found.
+	7554|Schwaara|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7570|Endschütz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7570|Endschütz|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7570|Teichwitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7570|Teichwitz|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Gauern|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Gauern|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Großenstein|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Großenstein|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Hilbersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Hilbersdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Linda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Linda|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Paitzdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Paitzdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Reichstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Reichstädt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7580|Rückersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7580|Rückersdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7586|Hartmannsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7586|Hartmannsdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7586|Kraftsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7586|Kraftsdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7589|Bocka|Thüringer Energie AG |998.67|  Gas operator not found.
+	7589|Bocka|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7589|Lindenkreuz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7589|Lindenkreuz|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7589|Saara|Thüringer Energie AG |998.67|  Gas operator not found.
+	7589|Saara|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7589|Schwarzbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	7589|Schwarzbach|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	7613|Walpernhain|Thüringer Energie AG |998.67|  Gas operator not found.
+	7616|Graitschen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7619|Mertendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Albersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Albersdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Bobeck|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Bobeck|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Bremsnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Bremsnitz|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Eineborn|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Eineborn|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Geisenhain|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Geisenhain|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Gneus|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Gneus|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Großbockedra|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Großbockedra|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Karlsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Karlsdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Kleinbockedra|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Kleinbockedra|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Kleinebersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Kleinebersdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Lippersdorf-Erdmannsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Lippersdorf-Erdmannsdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Meusebach|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Meusebach|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Möckern|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Möckern|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Oberbodnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Oberbodnitz|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Ottendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Ottendorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Quirla|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Quirla|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Rattelsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Rattelsdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Rausdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Rausdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Renthendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Renthendorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Ruttersdorf-Lotschen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Ruttersdorf-Lotschen|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Scheiditz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Scheiditz|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Schlöben|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Schlöben|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Schöngleina|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Schöngleina|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Tautendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Tautendorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Tissa|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Tissa|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Trockenborn-Wolfersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Trockenborn-Wolfersdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Tröbnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Tröbnitz|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Unterbodnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Unterbodnitz|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Waldeck|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Waldeck|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Waltersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Waltersdorf|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7646|Weißbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	7646|Weißbach|Stadtwerke Stadtroda GmbH|1049.17|  Gas operator not found.
+	7751|Bucha|Thüringer Energie AG |998.67|  Gas operator not found.
+	7751|Milda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Bibra|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Eichenberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Gumperda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Lindig|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Reinstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	7768|Seitenroda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7774|Frauenprießnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7774|Thierschneck|Thüringer Energie AG |998.67|  Gas operator not found.
+	7774|Wichmar|Thüringer Energie AG |998.67|  Gas operator not found.
+	7778|Hainichen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7778|Tautenburg|Thüringer Energie AG |998.67|  Gas operator not found.
+	7778|Zimmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Geroda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Lemnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Linda|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Miesitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Mittelpöllnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Rosendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Schmieritz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7819|Tömmelsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Burgk|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Dittersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Görkwitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Göschitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Löhma|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Plothen|Thüringer Energie AG |998.67|  Gas operator not found.
+	7907|Pörmitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	7919|Kirschkau|Thüringer Energie AG |998.67|  Gas operator not found.
+	7919|Langenbach|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	7919|Mühltroff|Thüringer Energie AG |998.67|  Gas operator not found.
+	7922|Tanna|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Crispendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Eßbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Neundorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Schöndorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Volkmannsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	7924|Ziegenrück|Thüringer Energie AG |998.67|  Gas operator not found.
+	7926|Gefell|Thüringer Energie AG |998.67|  Gas operator not found.
+	7927|Hirschberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	7980|Kühdorf|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	7980|Neumühle|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	8144|Hirschfeld|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	9526|Heidersdorf|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	9544|Neuhausen|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	9548|Deutschneudorf|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	9548|Kurort Seiffen|eins energie in sachsen GmbH  Co. KG|894.88|  Gas operator not found.
+	14806|Dahnsdorf|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14806|Kranepuhl|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14806|Locktow|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14806|Mörz|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14806|Ziezow|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14823|Buchholz|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14823|Hohenwerbig|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14823|Lühnsdorf|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14979|Birkenhain|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	14979|Friederikenhof|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	15831|Birkholz|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16775|Stechlin|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16775|Stechlin|E.ON Energie Deutschland GmbH|1076.15|  Gas operator not found.
+	16818|Albertinenhof|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16818|Kuhhorst|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16818|Radensleben|E.ON Energie Deutschland GmbH|1076.15|  Gas operator not found.
+	16818|Ribbeckshorst|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16818|Tornow|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16818|Zietenhorst|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16909|Wittstock|EMB Erdgas Mark Brandenburg GmbH|890.54|  Gas operator not found.
+	16909|Wittstock|E.ON Energie Deutschland GmbH|1076.15|  Gas operator not found.
+	17291|Nordwestuckermark|E.ON Energie Deutschland GmbH|1076.15|  Gas operator not found.
+	19273|Dammereez|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19294|Bresegard|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19294|Gorlosen|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19294|Görnitz|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19294|Krinitz|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19300|Deibow|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19300|Kastorf|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19300|Milow|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19300|Möllenbeck|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19300|Semmerin|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	19322|Kuhberg|Stadtwerke Wittenberge GmbH|970.21|  Gas operator not found.
+	21279|Appelbeck|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	21493|Melusinental|Stadtwerke Geesthacht GmbH|852.75|  Gas operator not found.
+	21514|Göttin|Vereinigte Stadtwerke GmbH|749.3|  Gas operator not found.
+	21516|Tramm|Vereinigte Stadtwerke GmbH|749.3|  Gas operator not found.
+	22145|Stapelfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	22946|Hohenfelde|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	23619|Goldenerhahn|Stadtwerke Lübeck GmbH|897.07|  Gas operator not found.
+	23714|Kirchnüchel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	23992|Zurow|Gasversorgung Wismar Land GmbH|1016.97|  Gas operator not found.
+	24257|Köhnerbrücke|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24306|Hinterste Wache|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24306|Waldshagen|ZVO Energie GmbH|881.71|  Gas operator not found.
+	24306|Wittmoldt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24321|Tivoli|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24326|Stadtbek, Gem Bosau|ZVO Energie GmbH|881.71|  Gas operator not found.
+	24326|Stadtbekermühle|ZVO Energie GmbH|881.71|  Gas operator not found.
+	24327|Grimmelsberg|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24354|Bösby|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24354|Bösbyfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24354|Pukholt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24358|Fresenboje|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24361|Lehmsiek|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24361|Profit|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24361|Sande|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24363|Ropahl|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24367|Suhrbrook|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Bicken|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Blick|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Dollrottfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Hye|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Scheggerott|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24392|Wagersrott|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Holzkoppel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Kronsgaard|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Lüchtoft|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Nieby|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Pommerby|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Röhrmoos|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24395|Stangheck|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24398|Büßholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24398|Kniepenberg|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24399|Marienhof|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Borrishaag|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Böelnorderfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Fraulund|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Rügge|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Stoltoft|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24405|Thiesholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24576|Hegebuchenbusch|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24576|Reesmoor|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24637|Ovendorferredder|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24640|Bollweg|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24640|Wierenkamp|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24790|Haßmoor|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24796|Krummwisch|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24799|Friedrichsgraben|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24799|Umleitungsdeich|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24805|Prinzenmoor|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24811|Stenten|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24819|Embühren|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24819|Grotenknöll|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24819|Haale|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24848|Mielberg|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24860|Klappholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24860|Uelsby|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24861|Fünfmühlen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24861|Reppel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24861|Wassermühle|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24863|Barkhorn|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24878|Lottorf|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24884|Hahnenkrug|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24887|Schwittschau|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24888|Brebelmoor|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24888|Loit|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24888|Schmedeland|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Dingwatt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Ekebergkrug|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Eslingholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Hollmühle|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Lüttholm|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Rabenholzlück|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24891|Schnarup-Thumby|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24894|Hoffnungstal|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24896|Nordergeilwang|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24960|Glücksburg|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24977|Westerholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	24980|Hörup|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25492|Hetlinger Neuerkoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25548|Auufer|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25548|Störkathen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25548|Wittenbergen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Beldorf|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Bendorf|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Bornholt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Keller|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Oldenbüttel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25557|Steenfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25560|Aasbüttel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25560|Bokhorst|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25560|Kaisborstel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25563|Bargholz|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Aebtissinwisch|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Ecklak|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Kudensee|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Landscheide|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Oberstenwehr|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25572|Vaalerfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25573|Klein Kampen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25585|Tackesdorf|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25593|Christinenthal|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25594|Vaalermoor|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25597|Moordiek|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25693|Volsemenhusen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25715|Ramhusen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25724|Neufelderkoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25725|Bornholt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25725|Weidenhof|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Friedrichsgabekoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Hellschen-Heringsand-Unterschaar|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Hillgroven|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Oesterwurth|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Wesselburenerkoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25764|Wulfenhusen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25767|Grünental|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25767|Immenstedt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25767|Riesewohld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25767|Wennbüttel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25779|Bergewöhrden|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25779|Schlichting|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25782|Hövede|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25788|Wallen|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25792|Strübbel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Bordelumsiel|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Brommelund|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Dörpum|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Dörpumfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Reußenköge|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25821|Vollstedt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25832|Kotzenbüll|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25836|Grothusenkoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25836|Osterhever|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25836|Poppenbüll|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25836|Vollerwiek|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25836|Welt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25840|An der Chaussee|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25840|Feddersdeich|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25840|Mildterhof|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25840|Ziegelhof|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25842|Addebüll|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25850|Bondelum|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25868|Erfderdamm|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25868|Steinschleuse|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25870|Norderfriedrichskoog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25878|Jeppern|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25878|Krelau|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25881|Tümlauer Koog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25881|Westerhever|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25884|Norstedt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25884|Sollwitt|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25885|Ahrenviölfeld|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25889|Uelvesbüll|E.ON Energie Deutschland GmbH|1047.87|  Gas operator not found.
+	25923|Ellhöft|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25923|Lexgaard|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25924|Friedrich-Wilhelm-Lübke-Koog|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25924|Rodenäs|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25926|Bramstedtlund|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25926|Karlum|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25927|Aventoft|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25938|Dunsum|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	25938|Witsum|E.ON Energie Deutschland GmbH|831.1|  Gas operator not found.
+	31749|Auetal|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	34225|Kahler Berg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34246|Hof Mondschirm|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34305|Gestecke|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34305|Niedenstein|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34320|Söhrewald|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34329|Nieste|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34355|Staufenberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34388|Trendelburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34399|Oberweser|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34576|Grünhof|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34630|Gilserberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34632|Jesberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34633|Ottrau|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34637|Schrecksbach|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	34639|Schwarzenborn|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35094|Michelbacher Mühle|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35110|Frankenau|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35114|Haina|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35117|Münchhausen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35239|Steffenberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35282|Rauschenberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35287|Amöneburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35288|Wohratal|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35585|Wetzlar|enwag energie- und wassergesellschaft mbh|833.95|  Gas operator not found.
+	35630|Heinrichsegen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35644|Hohenahr|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35647|Waldsolms|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35649|Bischoffen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35686|Dillenburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35688|Dillenburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35689|Dillenburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35690|Dillenburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35719|Angelburg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35753|Greifenstein|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	35768|Siegbach|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36166|Haunetal|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36179|Bebra|Stadtwerke Bebra GmbH|765.41|  Gas operator not found.
+	36179|Gunkelrode|Stadtwerke Bebra GmbH|765.41|  Gas operator not found.
+	36208|Bellers|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36219|Cornberg|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36275|Kirchheim|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36280|Oberaula|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36286|Neuenstein|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36287|Breitenbach|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	36323|Grebenau|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37127|Bühren|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37127|Jühnde|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37127|Scheden|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37130|Gleichen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37136|Landolfshausen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37136|Waake|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37217|Nonnenholz|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37345|Sonnenstein|EW Eichsfeldgas GmbH|884.79|  Gas operator not found.
+	37434|An der Rhumequelle|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37434|Bodensee|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37434|Krebeck|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37434|Wollbrandshausen|E.ON Energie Deutschland GmbH|803.78|  Gas operator not found.
+	37643|Negenborn|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	37647|Brevörde|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	37647|Polle|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	37647|Vahlbruch|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	37647|Wilmeröderberg|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	38154|Königslutter|Stadtwerke Königslutter GmbH|875.36|  Gas operator not found.
+	38667|Torfhaus|Harz Energie GmbH & Co. KG|792.13|  Gas operator not found.
+	38835|Bühne|Stadtwerke Halberstadt GmbH|955.75|  Gas operator not found.
+	38835|Osterode|Harz Energie GmbH & Co. KG|792.13|  Gas operator not found.
+	38835|Rhoden|Harz Energie GmbH & Co. KG|792.13|  Gas operator not found.
+	38835|Wülperode|Stadtwerke Halberstadt GmbH|955.75|  Gas operator not found.
+	38875|Drei Annen Hohne|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	38875|Sorge|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	38875|Tanne|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	38899|Hasselfelde|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	38899|Stiege|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	38899|Trautenstein|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	39279|Rosian|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	39279|Rosian|Erdgas Mittelsachsen GmbH|955.33|  Gas operator not found.
+	39279|Zeppernick|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	39279|Zeppernick|Erdgas Mittelsachsen GmbH|955.33|  Gas operator not found.
+	53547|Grübelsberg|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	54316|Bonerath|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Franzenheim|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Hinzenburg|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Hockweiler|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Holzerath|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Lampaden|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Ollmuth|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Pluwig|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54316|Schöndorf|SWT Stadtwerke Trier Versorgungs-GmbH|977.7|  Gas operator not found.
+	54538|Hontheim|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	54595|Pittenbach|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	55606|Hochstetten-Dhaun|Pfalzgas GmbH|927.71|  Gas operator not found.
+	56130|Altes Forsthaus|Süwag Energie AG|995.88|  Gas operator not found.
+	56130|Grenzloch|Süwag Energie AG|995.88|  Gas operator not found.
+	56130|Heinrichshof|Süwag Energie AG|995.88|  Gas operator not found.
+	56130|Schleuse Dausenau|Süwag Energie AG|995.88|  Gas operator not found.
+	56203|Bembermühle|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56206|Kammerforst|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56235|Faulbach|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56244|Steinen|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56457|Halbs|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56472|Dammühle|rhenag|1064.4|  Gas operator not found.
+	56472|Dreisbach|rhenag|1064.4|  Gas operator not found.
+	56472|Nisterberg|rhenag|1064.4|  Gas operator not found.
+	56472|Stockhausen-Illfurth|rhenag|1064.4|  Gas operator not found.
+	56477|Waigandshain|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56479|Homberg|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56729|Herresbach|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Brachtendorf|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Eulgem|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Gamlen|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Hambuch|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Hauroth|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Kaifenheim|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Masburg|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Müllenbach|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Polcherholz|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Urmersbach|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56761|Zettingen|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56767|Sassen|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56814|Ediger-Eller|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56823|Büchel|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56825|Gevenich|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	56825|Weiler|EVM Energieversorgung Mittelrhein GmbH|922.67|  Gas operator not found.
+	57580|Fensdorf|rhenag|1064.4|  Gas operator not found.
+	57589|Birkenbeul|rhenag|1064.4|  Gas operator not found.
+	57589|Friedenthal|rhenag|1064.4|  Gas operator not found.
+	57589|Niederirsen|rhenag|1064.4|  Gas operator not found.
+	57614|Berod|rhenag|1064.4|  Gas operator not found.
+	57614|Borod|rhenag|1064.4|  Gas operator not found.
+	57614|Mudenbach|rhenag|1064.4|  Gas operator not found.
+	57614|Oberwambach|rhenag|1064.4|  Gas operator not found.
+	57614|Stürzelbach|rhenag|1064.4|  Gas operator not found.
+	64743|Marbach|ENTEGA Vertrieb GmbH & Co. KG|857.17|  Gas operator not found.
+	64753|Wünschbach|ENTEGA Vertrieb GmbH & Co. KG|857.17|  Gas operator not found.
+	64754|Badisch Schöllenbach|ENTEGA Vertrieb GmbH & Co. KG|857.17|  Gas operator not found.
+	64757|Unter-Hainbrunn|ENTEGA Vertrieb GmbH & Co. KG|857.17|  Gas operator not found.
+	67305|Ochsenbusch|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67319|Lauberhof|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67680|Neuhemsbach|E.ON Energie Deutschland GmbH|813.96|  Gas operator not found.
+	67685|Mückenhof|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67737|Winterbach|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67742|Bösodenbacherhof|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67806|Felsbergerhof|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67806|Karlshöhe|Pfalzgas GmbH|927.71|  Gas operator not found.
+	67806|Kreuzhof|Pfalzgas GmbH|927.71|  Gas operator not found.
+	69429|Unterdielbach|Stadtwerke Eberbach|1042.55|  Gas operator not found.
+	69434|Brombach|Stadtwerke Eberbach|1042.55|  Gas operator not found.
+	71560|Bernhalden|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71560|Mittelfischbach|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71560|Sulzbach|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71560|Unterfischbach|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71576|Burgstetten|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71577|Großerlach|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	71720|Obere Ölmühle|Süwag Energie AG|995.88|  Gas operator not found.
+	71720|Untere Ölmühle|Süwag Energie AG|995.88|  Gas operator not found.
+	72138|Im Hengstrain|FairEnergie GmbH|913.92|  Gas operator not found.
+	72227|Egenhausen|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	72294|Grömbach|badenova AG & Co. KG|812.52|  Gas operator not found.
+	72649|Wolfschlugen|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	72657|Altenriet|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	72666|Neckartailfingen|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	72667|Schlaitdorf|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	73268|Erkenbrechtsweiler|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	73274|Notzingen|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	73275|Ohmden|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	73568|Leinhäusle|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	73568|Weggen-Ziegelhütte|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	73574|Mühlhölzle|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	73574|Pfaffenhäusle|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	73577|Ruppertshofen|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	73666|Baltmannsweiler|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	74196|Grollenhof|Stadtwerke Neuenstadt|781.12|  Gas operator not found.
+	74249|Buchhof, Gem Hardthausen|EnBW Energie Baden-Württemberg AG|792.06|  Gas operator not found.
+	74397|Pfaffenhofen|MVV Energie AG|1018.9|  Gas operator not found.
+	74749|Rosenberg|Stadtwerke Walldürn GmbH|847.28|  Gas operator not found.
+	75331|Engelsbrand|Stadtwerke Pforzheim GmbH & Co. KG|1021.02|  Gas operator not found.
+	76359|Fischweier|GVP Gasversorgung Pforzheim Land GmbH|995.88|  Gas operator not found.
+	76359|Schöllbronner Mühle|Stadtwerke Ettlingen GmbH|774|  Gas operator not found.
+	76726|Vorwerk Friedrich|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76744|Höllenmühle|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76779|Salmbacher Passage|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76831|Ziegelhütte|Erdgas Südwest GmbH|921.06|  Gas operator not found.
+	76857|Waldeck|Pfalzgas GmbH|927.71|  Gas operator not found.
+	76872|Bruchsiedlung|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76877|Fuchsmühle|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76889|Kleinsteinfeld|Thüga Energie GmbH|912.49|  Gas operator not found.
+	76889|Waldhof|Thüga Energie GmbH|912.49|  Gas operator not found.
+	83126|Flintsbach|Stadtwerke Rosenheim GmbH & Co. KG|860.18|  Gas operator not found.
+	83364|Loch|Energie Südbayern GmbH|909.64|  Gas operator not found.
+	83533|Edling|Energie Südbayern GmbH|909.64|  Gas operator not found.
+	84555|Jettenbach|Energie Südbayern GmbH|909.64|  Gas operator not found.
+	85567|Bruck|Energie Südbayern GmbH|909.64|  Gas operator not found.
+	86568|Hollenbach|Erdgas Schwaben GmbH|846.8|  Gas operator not found.
+	86989|Deutenried|Erdgas Schwaben GmbH|846.8|  Gas operator not found.
+	87466|Oy-Mittelberg|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87474|Buchenberg|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87477|Sulzberg|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87487|Wiggensbach|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87494|Rückholz|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87497|Wertach|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87499|Wildpoldsried|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87541|Bad Hindelang|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87547|Missen-Wilhams|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87637|Eisenberg|Erdgas Allgäu-Ost GmbH Co. KG|847.2|  Gas operator not found.
+	87657|Görisried|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87659|Hopferau|Erdgas Allgäu-Ost GmbH Co. KG|847.2|  Gas operator not found.
+	87663|Lengenwang|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87743|Betzenhausen|badenova AG & Co. KG|812.52|  Gas operator not found.
+	87761|Lauben|Erdgas Kempten-Oberallgäu GmbH|847.2|  Gas operator not found.
+	87776|Sontheim|EnBW Ostwürttemberg DonauRies Aktiengesellschaft|802.54|  Gas operator not found.
+	88079|Reichen|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88079|Wiesach|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88167|Gestratz|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88167|Grünenbach|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88167|Lengersau|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88167|Malleichen|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Alleshausen|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Dürnau|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Kanzach|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Moosburg|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Oggelshausen|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Seekirch|Thüga Energie GmbH|912.49|  Gas operator not found.
+	88422|Tiefenbach|Thüga Energie GmbH|912.49|  Gas operator not found.
+	90599|Dietenhofen|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	91085|Weisendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91086|Aurachtal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91090|Effeltrich|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91091|Großenseebach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91093|Heßdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91096|Möhrendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91097|Oberreichenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91099|Poxdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91177|Thalmässing|Stadtwerk am See GmbH & Co. KG|1005.31|  Gas operator not found.
+	91278|Pottenstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91281|Kirchenthumbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91282|Betzenstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91286|Obertrubach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91287|Plech|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91289|Schnabelwaid|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91327|Gößweinstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91338|Igensdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91344|Fuchshof|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91344|Schottersmühle|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91344|Waischenfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91346|Wiesenttal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91347|Aufseß|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91350|Gremsdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91352|Hallerndorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91353|Hausen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91355|Hiltpoltstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91356|Kirchehrenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91358|Kunreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91359|Leutenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91362|Pretzfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91364|Unterleinleiter|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91365|Weilersbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91367|Weißenohe|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91369|Wiesenthau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91469|Erlachskirchen|Infra Fürth GmbH|946.06|  Gas operator not found.
+	91483|Oberscheinfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91487|Vestenbergsgreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	91631|Wettringen|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	91725|Ehingen|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	91809|Wellheim|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	92256|Hahnbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92259|Neukirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92260|Ammerthal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92262|Birgland|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92265|Edelsfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92266|Ensdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92268|Etzelwang|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92272|Freudenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92274|Gebenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92277|Hohenburg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92278|Illschwang|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92280|Kastl|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92281|Königstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92286|Rieden|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92287|Schmidmühlen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92289|Ursensollen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92355|Velburg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92358|Seubersdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92363|Breitenbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92364|Deining|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92445|Neukirchen-Balbini|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92447|Schwarzhofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92539|Schönsee|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92540|Altendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92542|Dieterskirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92543|Guteneck|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92548|Schwarzach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92549|Stadlern|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92552|Teunz|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92554|Thanstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92555|Trausnitz|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92557|Weiding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92685|Floß|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92693|Eslarn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92696|Flossenbürg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92697|Georgenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92700|Kaltenbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92702|Kohlberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92703|Krummennaab|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92705|Leuchtenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92709|Moosbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92714|Pleystein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92715|Püchersreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92717|Reuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92723|Gleiritsch|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92723|Tännesberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	92727|Waldthurn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93089|Aufhausen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93095|Hagelstadt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93099|Mötzing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93101|Pfakofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93104|Riekofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93107|Thalmassing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93152|Deckelstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93152|Ebenwies|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93152|Hardt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93152|Nittendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93152|Zeiler|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93161|Sinzing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93170|Bernhardswald|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93177|Altenthann|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93180|Deuerling|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93182|Duggendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93185|Michelsneukirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93188|Pielenhofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93189|Reichenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93194|Walderbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93195|Biersackschlag|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93195|Wolfsegg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93199|Zell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93336|Altmannstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93348|Kirchdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93349|Mindelstetten|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93352|Rohr|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93359|Wildenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93453|Neukirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93455|Traitsching|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93458|Eschlkam|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93462|Lam|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93464|Tiefenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93466|Chamerau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93471|Arnbruck|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93476|Blaibach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93477|Gleißenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93479|Grafenwiesen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93479|Watzlsteg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93480|Hohenwarth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93482|Pemfling|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93483|Pösing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93485|Rimbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93486|Runding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93488|Schönthal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93491|Stamsried|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93492|Treffelstein|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93494|Waffenbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	93495|Weiding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94089|Neureichenau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94118|Jandelsbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94139|Breitenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94140|Ering|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94143|Grainet|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94145|Haidmühle|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94146|Hinterschmiding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94149|Kößlarn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94151|Mauth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94158|Philippsreut|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94163|Saldenburg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94164|Sonnen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94239|Gotteszell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94239|Ruhmannsfelden|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94239|Zachenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94250|Achslach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94253|Bischofsmais|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94255|Böbrach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94256|Drachselsried|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94264|Langdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94267|Prackenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94269|Rinchnach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94336|Windberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94350|Falkenfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94353|Haibach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94354|Haselbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94357|Konzell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94359|Loitzendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94360|Mitterfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94362|Neukirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94363|Oberschneiding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94366|Perasdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94371|Rattenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94372|Rattiszell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94374|Eckhütt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94374|Oberlindberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94374|Schwarzach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94375|Stallwang|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94379|Sankt Englmar|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94439|Roßbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94505|Bernried|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94527|Aholming|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94530|Auerbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94532|Außernzell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94533|Buchhofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94536|Eppenschlag|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94539|Grafling|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94541|Grattersdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94544|Hofkirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94545|Hohenau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94547|Iggensbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94548|Innernzell|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94550|Künzing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94551|Hunding|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94551|Lalling|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94551|Reigersberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94553|Mariaposching|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94556|Neuschönau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94562|Oberpöring|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94571|Schaufling|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94572|Schöfweg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94574|Wallerfing|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94575|Windorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	94577|Winzer|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95182|Döhlau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95358|Guttenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95361|Ködnitz|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95362|Kupferberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95365|Rugendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95367|Trebgast|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95488|Eckersdorf|Stadtwerke Bayreuth Energie und Wasser GmbH|949.62|  Gas operator not found.
+	95490|Mistelgau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95490|Schöchleinsmühle|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95491|Ahorntal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95496|Glashütten|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95503|Hummeltal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95505|Immenreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95515|Plankenfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95515|Schnackenwöhr|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95517|Emtmannsberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95517|Seybothenreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95519|Schlammersdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95519|Vorbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95671|Bärnau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95685|Falkenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95688|Friedenfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95689|Fuchsmühl|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95689|Hurtingöd|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95692|Konnersreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95694|Mehlmeisel|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95695|Mähring|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95698|Neualbenreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95700|Neusorg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95703|Auerberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95703|Plößberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	95704|Pullenreuth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96126|Ermershausen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96126|Maroldsweisach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96145|Seßlach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96146|Altendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	96146|Altendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96151|Breitbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96154|Burgwindheim|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96157|Ebrach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96158|Frensdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96160|Geiselwind|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96161|Gerach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96166|Kirchlauter|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96167|Königsfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96169|Lauter|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96170|Lisberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96170|Priesendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96172|Mühlhausen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96175|Pettstadt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96176|Pfarrweisach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96178|Pommersfelden|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96181|Rauhenebrach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96184|Rentweinsdorf|Energieversorgung Lohr-Karlstadt Umgebung GmbH |885.6|  Gas operator not found.
+	96184|Rentweinsdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96185|Schönbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96187|Stadelhofen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96188|Stettfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96193|Wachenroth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96196|Wattendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96197|Wonsees|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96346|Wallenfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96352|Wilhelmsthal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96367|Tschirn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	96528|Bachfeld|Thüringer Energie AG |998.67|  Gas operator not found.
+	97237|Altertheim|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97244|Bütthard|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	97253|Gaukönigshofen|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	97259|Greußenheim|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97264|Helmstadt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97268|Kirchheim|N-ERGIE Aktiengesellschaft|827.05|  Gas operator not found.
+	97277|Neubrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97280|Remlingen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97292|Holzkirchen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97292|Holzmühle|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97292|Uettingen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97488|Stadtlauringen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97491|Aidhausen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97494|Bundorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97496|Burgpreppach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97514|Markertsgrün|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97514|Oberaurach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97519|Riedbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97528|Sulzdorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97657|Sandberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97711|Maßbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97711|Thundorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97773|Aura|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97775|Burgsinn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97776|Eußenheim|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97778|Fellen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97779|Geroda|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97780|Gössenheim|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97782|Gräfendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97785|Mittelsinn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97786|Motten|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97788|Neuendorf|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97791|Obersinn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97794|Rieneck|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97795|Schondra|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97797|Wartmannsroth|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97834|Birkenfeld|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97836|Bischbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97836|Karlshöhe|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97836|Schleifthor|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97839|Esselbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97840|Erlenfurt|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97840|Hafenlohr|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97840|Lichtenau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97842|Karbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97843|Neuhütten|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97848|Rechtenbach|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97851|Rothenfels|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97852|Schleifmühle|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97852|Schollbrunn|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97857|Urspringen|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97859|Wiesthal|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97901|Altenbuch|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97903|Collenberg|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97907|Hasloch|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97907|Karthause Grünau|E.ON Energie Deutschland GmbH|832.52|  Gas operator not found.
+	97957|Bowiesen|Stadtwerk Tauberfranken GmbH|855.6|  Gas operator not found.
+	98547|Christes|Thüringer Energie AG |998.67|  Gas operator not found.
+	98553|Ahlstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	98553|Bischofrod|Thüringer Energie AG |998.67|  Gas operator not found.
+	98553|Eichenberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	98639|Metzels|Thüringer Energie AG |998.67|  Gas operator not found.
+	98639|Rippershausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	98639|Wallbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	98646|Dingsleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	98667|Langenbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	98667|Steinbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	98744|Meura|Thüringer Energie AG |998.67|  Gas operator not found.
+	99102|Rockhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99192|Marienthal|Thüringer Energie AG |998.67|  Gas operator not found.
+	99192|Nottleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99192|Osterberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Großrudestedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Großrudestedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99195|Kleinrudestedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Kleinrudestedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99195|Kranichborn|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Kranichborn|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99195|Nöda|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Nöda|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99195|Riethnordhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Riethnordhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99195|Schwansee|Thüringer Energie AG |998.67|  Gas operator not found.
+	99195|Schwansee|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99198|Eichelborn|Thüringer Energie AG |998.67|  Gas operator not found.
+	99198|Großmölsen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99198|Großmölsen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99198|Kleinmölsen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99198|Kleinmölsen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99198|Ollendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99198|Ollendorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99198|Sohnstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99310|Alkersleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99310|Osthausen-Wülfershausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99310|Witzleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99334|Elleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99334|Elxleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99338|Gossel|Thüringer Energie AG |998.67|  Gas operator not found.
+	99428|Niederzimmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99428|Ottstedt a Berge|Thüringer Energie AG |998.67|  Gas operator not found.
+	99438|Buchfart|Thüringer Energie AG |998.67|  Gas operator not found.
+	99438|Oettern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99438|Vollersroda|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Ballstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Ballstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Berlstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Berlstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Daasdorf b Buttelstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Daasdorf b Buttelstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Hottelstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Hottelstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Krautheim|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Krautheim|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Krautheim|Stadtwerk Tauberfranken GmbH|855.6|  Gas operator not found.
+	99439|Leutenthal|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Leutenthal|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Nermsdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Nermsdorf|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Neumark|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Neumark|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Ottmannshausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Ottmannshausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Ramsla|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Ramsla|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Rohrbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Rohrbach|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Schwerstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Schwerstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Stedten a Ettersberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Stedten a Ettersberg|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Vippachedelhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Vippachedelhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99439|Weiden|Thüringer Energie AG |998.67|  Gas operator not found.
+	99439|Weiden|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99441|Döbritschen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99441|Frankendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99441|Hammerstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99441|Kiliansroda|Thüringer Energie AG |998.67|  Gas operator not found.
+	99441|Mechelroda|Thüringer Energie AG |998.67|  Gas operator not found.
+	99448|Rittersdorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Eckolstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Flurstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Gebstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Großromstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Hermstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Kapellendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Kösnitz|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Münchengosserstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Obertrebra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Obertrebra|Energieversorgung Apolda GmbH|1263.75|  Gas operator not found.
+	99510|Pfuhlsborn|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Stobra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Wiegendorf|Thüringer Energie AG |998.67|  Gas operator not found.
+	99510|Wormstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99518|Eberstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99518|Ködderitzsch|Thüringer Energie AG |998.67|  Gas operator not found.
+	99518|Lachstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99518|Niedertrebra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99625|Beichlingen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99625|Beichlingen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99625|Großneuhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99625|Großneuhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99625|Kleinneuhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99625|Kleinneuhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99625|Schillingstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99625|Schillingstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99628|Buttstädt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Ellersleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Eßleben-Teutleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Guthmannshausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Hardisleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Mannstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99628|Olbersleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99631|Günstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99631|Günstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99631|Herrnschwende|Thüringer Energie AG |998.67|  Gas operator not found.
+	99631|Herrnschwende|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99631|Nausiß|Thüringer Energie AG |998.67|  Gas operator not found.
+	99631|Nausiß|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99634|Gangloffsömmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99634|Gangloffsömmern|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99634|Henschleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99634|Henschleben|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99634|Schwerstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99634|Schwerstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99634|Werningshausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99634|Werningshausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99636|Ostramondra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99636|Ostramondra|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99636|Rastenberg|Thüringer Energie AG |998.67|  Gas operator not found.
+	99636|Rastenberg|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99638|Büchel|Thüringer Energie AG |998.67|  Gas operator not found.
+	99638|Büchel|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99638|Frömmstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99638|Frömmstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99638|Griefstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99638|Griefstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99638|Riethgen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99638|Riethgen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Abtsbessingen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Abtsbessingen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Bellstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Bellstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Freienbessingen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Freienbessingen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Holzsußra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Holzsußra|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Rockstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Rockstedt|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Thüringenhausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Thüringenhausen|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99713|Wolferschwenda|Thüringer Energie AG |998.67|  Gas operator not found.
+	99713|Wolferschwenda|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99718|Großenehrich|Thüringer Energie AG |998.67|  Gas operator not found.
+	99718|Großenehrich|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99718|Niederbösa|Thüringer Energie AG |998.67|  Gas operator not found.
+	99718|Niederbösa|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99718|Oberbösa|Thüringer Energie AG |998.67|  Gas operator not found.
+	99718|Oberbösa|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99718|Topfstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99718|Trebra|Thüringer Energie AG |998.67|  Gas operator not found.
+	99718|Trebra|MITGAS Mitteldeutsche Gasversorgung GmbH|1018.52|  Gas operator not found.
+	99735|Fronderode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99735|Immenrode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99735|Mauderode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99752|Kehmstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99752|Kleinbodungen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99752|Kraja|Thüringer Energie AG |998.67|  Gas operator not found.
+	99752|Lipprechterode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99755|Hohenstein|Thüringer Energie AG |998.67|  Gas operator not found.
+	99765|Hamma|Thüringer Energie AG |998.67|  Gas operator not found.
+	99837|Großensee|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Blankenburg|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Bruchstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Haussömmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Hornsömmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Klettstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Kutzleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Mittelsömmern|Thüringer Energie AG |998.67|  Gas operator not found.
+	99955|Urleben|Thüringer Energie AG |998.67|  Gas operator not found.
+	99976|Eigenrode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99976|Faulungen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99976|Hildebrandshausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99976|Kleinkeula|Thüringer Energie AG |998.67|  Gas operator not found.
+	99976|Sollstedt|Thüringer Energie AG |998.67|  Gas operator not found.
+	99988|Heyerode|Thüringer Energie AG |998.67|  Gas operator not found.
+	99988|Schierschwende|Thüringer Energie AG |998.67|  Gas operator not found.
+	99988|Wendehausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99991|Heroldishausen|Thüringer Energie AG |998.67|  Gas operator not found.
+	99996|Obermehler|Thüringer Energie AG |998.67|  Gas operator not found.
+	99996|Urbach|Thüringer Energie AG |998.67|  Gas operator not found.
+	2979|Burghammer
+	3238|Betten
+	3238|Lindthal
+	4603|Göhren
+	4603|Göhren
+	4626|Drogen
+	4626|Drogen
+	4626|Göllnitz
+	4626|Göllnitz
+	4626|Heukewalde
+	4626|Heukewalde
+	4626|Heyersdorf
+	4626|Heyersdorf
+	4626|Jonaswalde
+	4626|Jonaswalde
+	4626|Mehna
+	4626|Mehna
+	4626|Posterstein
+	4626|Posterstein
+	4626|Thonhausen
+	4626|Thonhausen
+	4626|Vollmershain
+	4626|Vollmershain
+	4626|Wildenbörten
+	4626|Wildenbörten
+	6369|Arensdorf
+	6369|Arensdorf
+	6369|Dohndorf
+	6369|Dohndorf
+	6369|Glauzig
+	6369|Glauzig
+	6369|Görzig
+	6369|Görzig
+	6369|Libehna
+	6369|Libehna
+	6369|Löbnitz an der Linde
+	6369|Löbnitz an der Linde
+	6369|Merzien
+	6369|Merzien
+	6369|Prosigk
+	6369|Prosigk
+	6369|Reupzig
+	6369|Reupzig
+	6369|Riesdorf
+	6369|Riesdorf
+	6369|Trebbichau
+	6369|Trebbichau
+	6642|Kaiserpfalz
+	6642|Nebra
+	6642|Zuckerfabrik Vitzenburg
+	6682|Teuchern
+	6682|Teuchern
+	6686|Lützen
+	6712|Kretzschau
+	6712|Kretzschau
+	7318|Wittgendorf
+	7333|Unterwellenborn
+	7338|Altenbeuthen
+	7338|Drognitz
+	7338|Hohenwarte
+	7338|Kaulsdorf
+	7356|Neundorf
+	7381|Moxa
+	7381|Oberoppurg
+	7381|Paska
+	7381|Solkwitz
+	7381|Wernburg
+	7389|Bucha
+	7389|Grobengereuth
+	7389|Gössitz
+	7389|Keila
+	7389|Knau
+	7389|Quaschwitz
+	7389|Schmorda
+	7389|Seisla
+	7389|Wilhelmsdorf
+	7426|Bechstedt
+	7426|Oberhain
+	7429|Döschnitz
+	7429|Rohrbach
+	7554|Bethenhausen
+	7554|Bethenhausen
+	7554|Brahmenau
+	7554|Brahmenau
+	7554|Hirschfeld
+	7554|Hirschfeld
+	7554|Kauern
+	7554|Kauern
+	7554|Pölzig
+	7554|Pölzig
+	7554|Schwaara
+	7554|Schwaara
+	7570|Endschütz
+	7570|Endschütz
+	7570|Teichwitz
+	7570|Teichwitz
+	7580|Gauern
+	7580|Gauern
+	7580|Großenstein
+	7580|Großenstein
+	7580|Hilbersdorf
+	7580|Hilbersdorf
+	7580|Linda
+	7580|Linda
+	7580|Paitzdorf
+	7580|Paitzdorf
+	7580|Reichstädt
+	7580|Reichstädt
+	7580|Rückersdorf
+	7580|Rückersdorf
+	7586|Hartmannsdorf
+	7586|Hartmannsdorf
+	7586|Kraftsdorf
+	7586|Kraftsdorf
+	7589|Bocka
+	7589|Bocka
+	7589|Lindenkreuz
+	7589|Lindenkreuz
+	7589|Saara
+	7589|Saara
+	7589|Schwarzbach
+	7589|Schwarzbach
+	7613|Walpernhain
+	7616|Graitschen
+	7619|Mertendorf
+	7646|Albersdorf
+	7646|Albersdorf
+	7646|Bobeck
+	7646|Bobeck
+	7646|Bremsnitz
+	7646|Bremsnitz
+	7646|Eineborn
+	7646|Eineborn
+	7646|Geisenhain
+	7646|Geisenhain
+	7646|Gneus
+	7646|Gneus
+	7646|Großbockedra
+	7646|Großbockedra
+	7646|Karlsdorf
+	7646|Karlsdorf
+	7646|Kleinbockedra
+	7646|Kleinbockedra
+	7646|Kleinebersdorf
+	7646|Kleinebersdorf
+	7646|Lippersdorf-Erdmannsdorf
+	7646|Lippersdorf-Erdmannsdorf
+	7646|Meusebach
+	7646|Meusebach
+	7646|Möckern
+	7646|Möckern
+	7646|Oberbodnitz
+	7646|Oberbodnitz
+	7646|Ottendorf
+	7646|Ottendorf
+	7646|Quirla
+	7646|Quirla
+	7646|Rattelsdorf
+	7646|Rattelsdorf
+	7646|Rausdorf
+	7646|Rausdorf
+	7646|Renthendorf
+	7646|Renthendorf
+	7646|Ruttersdorf-Lotschen
+	7646|Ruttersdorf-Lotschen
+	7646|Scheiditz
+	7646|Scheiditz
+	7646|Schlöben
+	7646|Schlöben
+	7646|Schöngleina
+	7646|Schöngleina
+	7646|Tautendorf
+	7646|Tautendorf
+	7646|Tissa
+	7646|Tissa
+	7646|Trockenborn-Wolfersdorf
+	7646|Trockenborn-Wolfersdorf
+	7646|Tröbnitz
+	7646|Tröbnitz
+	7646|Unterbodnitz
+	7646|Unterbodnitz
+	7646|Waldeck
+	7646|Waldeck
+	7646|Waltersdorf
+	7646|Waltersdorf
+	7646|Weißbach
+	7646|Weißbach
+	7751|Bucha
+	7751|Milda
+	7768|Bibra
+	7768|Eichenberg
+	7768|Gumperda
+	7768|Lindig
+	7768|Reinstädt
+	7768|Seitenroda
+	7774|Frauenprießnitz
+	7774|Thierschneck
+	7774|Wichmar
+	7778|Hainichen
+	7778|Tautenburg
+	7778|Zimmern
+	7819|Geroda
+	7819|Lemnitz
+	7819|Linda
+	7819|Miesitz
+	7819|Mittelpöllnitz
+	7819|Rosendorf
+	7819|Schmieritz
+	7819|Tömmelsdorf
+	7907|Burgk
+	7907|Dittersdorf
+	7907|Görkwitz
+	7907|Göschitz
+	7907|Löhma
+	7907|Plothen
+	7907|Pörmitz
+	7919|Kirschkau
+	7919|Langenbach
+	7919|Mühltroff
+	7922|Tanna
+	7924|Crispendorf
+	7924|Eßbach
+	7924|Neundorf
+	7924|Schöndorf
+	7924|Volkmannsdorf
+	7924|Ziegenrück
+	7926|Gefell
+	7927|Hirschberg
+	7980|Kühdorf
+	7980|Neumühle
+	8144|Hirschfeld
+	9526|Heidersdorf
+	9544|Neuhausen
+	9548|Deutschneudorf
+	9548|Kurort Seiffen
+	14806|Dahnsdorf
+	14806|Kranepuhl
+	14806|Locktow
+	14806|Mörz
+	14806|Ziezow
+	14823|Buchholz
+	14823|Hohenwerbig
+	14823|Lühnsdorf
+	14979|Birkenhain
+	14979|Friederikenhof
+	15831|Birkholz
+	16775|Stechlin
+	16775|Stechlin
+	16818|Albertinenhof
+	16818|Kuhhorst
+	16818|Radensleben
+	16818|Ribbeckshorst
+	16818|Tornow
+	16818|Zietenhorst
+	16909|Wittstock
+	16909|Wittstock
+	17291|Nordwestuckermark
+	19273|Dammereez
+	19294|Bresegard
+	19294|Gorlosen
+	19294|Görnitz
+	19294|Krinitz
+	19300|Deibow
+	19300|Kastorf
+	19300|Milow
+	19300|Möllenbeck
+	19300|Semmerin
+	19322|Kuhberg
+	21279|Appelbeck
+	21493|Melusinental
+	21514|Göttin
+	21516|Tramm
+	22145|Stapelfeld
+	22946|Hohenfelde
+	23619|Goldenerhahn
+	23714|Kirchnüchel
+	23992|Zurow
+	24257|Köhnerbrücke
+	24306|Hinterste Wache
+	24306|Waldshagen
+	24306|Wittmoldt
+	24321|Tivoli
+	24326|Stadtbek, Gem Bosau
+	24326|Stadtbekermühle
+	24327|Grimmelsberg
+	24354|Bösby
+	24354|Bösbyfeld
+	24354|Pukholt
+	24358|Fresenboje
+	24361|Lehmsiek
+	24361|Profit
+	24361|Sande
+	24363|Ropahl
+	24367|Suhrbrook
+	24392|Bicken
+	24392|Blick
+	24392|Dollrottfeld
+	24392|Hye
+	24392|Scheggerott
+	24392|Wagersrott
+	24395|Holzkoppel
+	24395|Kronsgaard
+	24395|Lüchtoft
+	24395|Nieby
+	24395|Pommerby
+	24395|Röhrmoos
+	24395|Stangheck
+	24398|Büßholz
+	24398|Kniepenberg
+	24399|Marienhof
+	24405|Borrishaag
+	24405|Böelnorderfeld
+	24405|Fraulund
+	24405|Rügge
+	24405|Stoltoft
+	24405|Thiesholz
+	24576|Hegebuchenbusch
+	24576|Reesmoor
+	24637|Ovendorferredder
+	24640|Bollweg
+	24640|Wierenkamp
+	24790|Haßmoor
+	24796|Krummwisch
+	24799|Friedrichsgraben
+	24799|Umleitungsdeich
+	24805|Prinzenmoor
+	24811|Stenten
+	24819|Embühren
+	24819|Grotenknöll
+	24819|Haale
+	24848|Mielberg
+	24860|Klappholz
+	24860|Uelsby
+	24861|Fünfmühlen
+	24861|Reppel
+	24861|Wassermühle
+	24863|Barkhorn
+	24878|Lottorf
+	24884|Hahnenkrug
+	24887|Schwittschau
+	24888|Brebelmoor
+	24888|Loit
+	24888|Schmedeland
+	24891|Dingwatt
+	24891|Ekebergkrug
+	24891|Eslingholz
+	24891|Hollmühle
+	24891|Lüttholm
+	24891|Rabenholzlück
+	24891|Schnarup-Thumby
+	24894|Hoffnungstal
+	24896|Nordergeilwang
+	24960|Glücksburg
+	24977|Westerholz
+	24980|Hörup
+	25492|Hetlinger Neuerkoog
+	25548|Auufer
+	25548|Störkathen
+	25548|Wittenbergen
+	25557|Beldorf
+	25557|Bendorf
+	25557|Bornholt
+	25557|Keller
+	25557|Oldenbüttel
+	25557|Steenfeld
+	25560|Aasbüttel
+	25560|Bokhorst
+	25560|Kaisborstel
+	25563|Bargholz
+	25572|Aebtissinwisch
+	25572|Ecklak
+	25572|Kudensee
+	25572|Landscheide
+	25572|Oberstenwehr
+	25572|Vaalerfeld
+	25573|Klein Kampen
+	25585|Tackesdorf
+	25593|Christinenthal
+	25594|Vaalermoor
+	25597|Moordiek
+	25693|Volsemenhusen
+	25715|Ramhusen
+	25724|Neufelderkoog
+	25725|Bornholt
+	25725|Weidenhof
+	25764|Friedrichsgabekoog
+	25764|Hellschen-Heringsand-Unterschaar
+	25764|Hillgroven
+	25764|Oesterwurth
+	25764|Wesselburenerkoog
+	25764|Wulfenhusen
+	25767|Grünental
+	25767|Immenstedt
+	25767|Riesewohld
+	25767|Wennbüttel
+	25779|Bergewöhrden
+	25779|Schlichting
+	25782|Hövede
+	25788|Wallen
+	25792|Strübbel
+	25821|Bordelumsiel
+	25821|Brommelund
+	25821|Dörpum
+	25821|Dörpumfeld
+	25821|Reußenköge
+	25821|Vollstedt
+	25832|Kotzenbüll
+	25836|Grothusenkoog
+	25836|Osterhever
+	25836|Poppenbüll
+	25836|Vollerwiek
+	25836|Welt
+	25840|An der Chaussee
+	25840|Feddersdeich
+	25840|Mildterhof
+	25840|Ziegelhof
+	25842|Addebüll
+	25850|Bondelum
+	25868|Erfderdamm
+	25868|Steinschleuse
+	25870|Norderfriedrichskoog
+	25878|Jeppern
+	25878|Krelau
+	25881|Tümlauer Koog
+	25881|Westerhever
+	25884|Norstedt
+	25884|Sollwitt
+	25885|Ahrenviölfeld
+	25889|Uelvesbüll
+	25923|Ellhöft
+	25923|Lexgaard
+	25924|Friedrich-Wilhelm-Lübke-Koog
+	25924|Rodenäs
+	25926|Bramstedtlund
+	25926|Karlum
+	25927|Aventoft
+	25938|Dunsum
+	25938|Witsum
+	31749|Auetal
+	34225|Kahler Berg
+	34246|Hof Mondschirm
+	34305|Gestecke
+	34305|Niedenstein
+	34320|Söhrewald
+	34329|Nieste
+	34355|Staufenberg
+	34388|Trendelburg
+	34399|Oberweser
+	34576|Grünhof
+	34630|Gilserberg
+	34632|Jesberg
+	34633|Ottrau
+	34637|Schrecksbach
+	34639|Schwarzenborn
+	35094|Michelbacher Mühle
+	35110|Frankenau
+	35114|Haina
+	35117|Münchhausen
+	35239|Steffenberg
+	35282|Rauschenberg
+	35287|Amöneburg
+	35288|Wohratal
+	35585|Wetzlar
+	35630|Heinrichsegen
+	35644|Hohenahr
+	35647|Waldsolms
+	35649|Bischoffen
+	35686|Dillenburg
+	35688|Dillenburg
+	35689|Dillenburg
+	35690|Dillenburg
+	35719|Angelburg
+	35753|Greifenstein
+	35768|Siegbach
+	36166|Haunetal
+	36179|Bebra
+	36179|Gunkelrode
+	36208|Bellers
+	36219|Cornberg
+	36275|Kirchheim
+	36280|Oberaula
+	36286|Neuenstein
+	36287|Breitenbach
+	36323|Grebenau
+	37127|Bühren
+	37127|Jühnde
+	37127|Scheden
+	37130|Gleichen
+	37136|Landolfshausen
+	37136|Waake
+	37217|Nonnenholz
+	37345|Sonnenstein
+	37434|An der Rhumequelle
+	37434|Bodensee
+	37434|Krebeck
+	37434|Wollbrandshausen
+	37643|Negenborn
+	37647|Brevörde
+	37647|Polle
+	37647|Vahlbruch
+	37647|Wilmeröderberg
+	38154|Königslutter
+	38667|Torfhaus
+	38835|Bühne
+	38835|Osterode
+	38835|Rhoden
+	38835|Wülperode
+	38875|Drei Annen Hohne
+	38875|Sorge
+	38875|Tanne
+	38899|Hasselfelde
+	38899|Stiege
+	38899|Trautenstein
+	39279|Rosian
+	39279|Rosian
+	39279|Zeppernick
+	39279|Zeppernick
+	53547|Grübelsberg
+	54316|Bonerath
+	54316|Franzenheim
+	54316|Hinzenburg
+	54316|Hockweiler
+	54316|Holzerath
+	54316|Lampaden
+	54316|Ollmuth
+	54316|Pluwig
+	54316|Schöndorf
+	54538|Hontheim
+	54595|Pittenbach
+	55606|Hochstetten-Dhaun
+	56130|Altes Forsthaus
+	56130|Grenzloch
+	56130|Heinrichshof
+	56130|Schleuse Dausenau
+	56203|Bembermühle
+	56206|Kammerforst
+	56235|Faulbach
+	56244|Steinen
+	56457|Halbs
+	56472|Dammühle
+	56472|Dreisbach
+	56472|Nisterberg
+	56472|Stockhausen-Illfurth
+	56477|Waigandshain
+	56479|Homberg
+	56729|Herresbach
+	56761|Brachtendorf
+	56761|Eulgem
+	56761|Gamlen
+	56761|Hambuch
+	56761|Hauroth
+	56761|Kaifenheim
+	56761|Masburg
+	56761|Müllenbach
+	56761|Polcherholz
+	56761|Urmersbach
+	56761|Zettingen
+	56767|Sassen
+	56814|Ediger-Eller
+	56823|Büchel
+	56825|Gevenich
+	56825|Weiler
+	57580|Fensdorf
+	57589|Birkenbeul
+	57589|Friedenthal
+	57589|Niederirsen
+	57614|Berod
+	57614|Borod
+	57614|Mudenbach
+	57614|Oberwambach
+	57614|Stürzelbach
+	64743|Marbach
+	64753|Wünschbach
+	64754|Badisch Schöllenbach
+	64757|Unter-Hainbrunn
+	67305|Ochsenbusch
+	67319|Lauberhof
+	67680|Neuhemsbach
+	67685|Mückenhof
+	67737|Winterbach
+	67742|Bösodenbacherhof
+	67806|Felsbergerhof
+	67806|Karlshöhe
+	67806|Kreuzhof
+	69429|Unterdielbach
+	69434|Brombach
+	71560|Bernhalden
+	71560|Mittelfischbach
+	71560|Sulzbach
+	71560|Unterfischbach
+	71576|Burgstetten
+	71577|Großerlach
+	71720|Obere Ölmühle
+	71720|Untere Ölmühle
+	72138|Im Hengstrain
+	72227|Egenhausen
+	72294|Grömbach
+	72649|Wolfschlugen
+	72657|Altenriet
+	72666|Neckartailfingen
+	72667|Schlaitdorf
+	73268|Erkenbrechtsweiler
+	73274|Notzingen
+	73275|Ohmden
+	73568|Leinhäusle
+	73568|Weggen-Ziegelhütte
+	73574|Mühlhölzle
+	73574|Pfaffenhäusle
+	73577|Ruppertshofen
+	73666|Baltmannsweiler
+	74196|Grollenhof
+	74249|Buchhof, Gem Hardthausen
+	74397|Pfaffenhofen
+	74749|Rosenberg
+	75331|Engelsbrand
+	76359|Fischweier
+	76359|Schöllbronner Mühle
+	76726|Vorwerk Friedrich
+	76744|Höllenmühle
+	76779|Salmbacher Passage
+	76831|Ziegelhütte
+	76857|Waldeck
+	76872|Bruchsiedlung
+	76877|Fuchsmühle
+	76889|Kleinsteinfeld
+	76889|Waldhof
+	83126|Flintsbach
+	83364|Loch
+	83533|Edling
+	84555|Jettenbach
+	85567|Bruck
+	86568|Hollenbach
+	86989|Deutenried
+	87466|Oy-Mittelberg
+	87474|Buchenberg
+	87477|Sulzberg
+	87487|Wiggensbach
+	87494|Rückholz
+	87497|Wertach
+	87499|Wildpoldsried
+	87541|Bad Hindelang
+	87547|Missen-Wilhams
+	87637|Eisenberg
+	87657|Görisried
+	87659|Hopferau
+	87663|Lengenwang
+	87743|Betzenhausen
+	87761|Lauben
+	87776|Sontheim
+	88079|Reichen
+	88079|Wiesach
+	88167|Gestratz
+	88167|Grünenbach
+	88167|Lengersau
+	88167|Malleichen
+	88422|Alleshausen
+	88422|Dürnau
+	88422|Kanzach
+	88422|Moosburg
+	88422|Oggelshausen
+	88422|Seekirch
+	88422|Tiefenbach
+	90599|Dietenhofen
+	91085|Weisendorf
+	91086|Aurachtal
+	91090|Effeltrich
+	91091|Großenseebach
+	91093|Heßdorf
+	91096|Möhrendorf
+	91097|Oberreichenbach
+	91099|Poxdorf
+	91177|Thalmässing
+	91278|Pottenstein
+	91281|Kirchenthumbach
+	91282|Betzenstein
+	91286|Obertrubach
+	91287|Plech
+	91289|Schnabelwaid
+	91327|Gößweinstein
+	91338|Igensdorf
+	91344|Fuchshof
+	91344|Schottersmühle
+	91344|Waischenfeld
+	91346|Wiesenttal
+	91347|Aufseß
+	91350|Gremsdorf
+	91352|Hallerndorf
+	91353|Hausen
+	91355|Hiltpoltstein
+	91356|Kirchehrenbach
+	91358|Kunreuth
+	91359|Leutenbach
+	91362|Pretzfeld
+	91364|Unterleinleiter
+	91365|Weilersbach
+	91367|Weißenohe
+	91369|Wiesenthau
+	91469|Erlachskirchen
+	91483|Oberscheinfeld
+	91487|Vestenbergsgreuth
+	91631|Wettringen
+	91725|Ehingen
+	91809|Wellheim
+	92256|Hahnbach
+	92259|Neukirchen
+	92260|Ammerthal
+	92262|Birgland
+	92265|Edelsfeld
+	92266|Ensdorf
+	92268|Etzelwang
+	92272|Freudenberg
+	92274|Gebenbach
+	92277|Hohenburg
+	92278|Illschwang
+	92280|Kastl
+	92281|Königstein
+	92286|Rieden
+	92287|Schmidmühlen
+	92289|Ursensollen
+	92355|Velburg
+	92358|Seubersdorf
+	92363|Breitenbrunn
+	92364|Deining
+	92445|Neukirchen-Balbini
+	92447|Schwarzhofen
+	92539|Schönsee
+	92540|Altendorf
+	92542|Dieterskirchen
+	92543|Guteneck
+	92548|Schwarzach
+	92549|Stadlern
+	92552|Teunz
+	92554|Thanstein
+	92555|Trausnitz
+	92557|Weiding
+	92685|Floß
+	92693|Eslarn
+	92696|Flossenbürg
+	92697|Georgenberg
+	92700|Kaltenbrunn
+	92702|Kohlberg
+	92703|Krummennaab
+	92705|Leuchtenberg
+	92709|Moosbach
+	92714|Pleystein
+	92715|Püchersreuth
+	92717|Reuth
+	92723|Gleiritsch
+	92723|Tännesberg
+	92727|Waldthurn
+	93089|Aufhausen
+	93095|Hagelstadt
+	93099|Mötzing
+	93101|Pfakofen
+	93104|Riekofen
+	93107|Thalmassing
+	93152|Deckelstein
+	93152|Ebenwies
+	93152|Hardt
+	93152|Nittendorf
+	93152|Zeiler
+	93161|Sinzing
+	93170|Bernhardswald
+	93177|Altenthann
+	93180|Deuerling
+	93182|Duggendorf
+	93185|Michelsneukirchen
+	93188|Pielenhofen
+	93189|Reichenbach
+	93194|Walderbach
+	93195|Biersackschlag
+	93195|Wolfsegg
+	93199|Zell
+	93336|Altmannstein
+	93348|Kirchdorf
+	93349|Mindelstetten
+	93352|Rohr
+	93359|Wildenberg
+	93453|Neukirchen
+	93455|Traitsching
+	93458|Eschlkam
+	93462|Lam
+	93464|Tiefenbach
+	93466|Chamerau
+	93471|Arnbruck
+	93476|Blaibach
+	93477|Gleißenberg
+	93479|Grafenwiesen
+	93479|Watzlsteg
+	93480|Hohenwarth
+	93482|Pemfling
+	93483|Pösing
+	93485|Rimbach
+	93486|Runding
+	93488|Schönthal
+	93491|Stamsried
+	93492|Treffelstein
+	93494|Waffenbrunn
+	93495|Weiding
+	94089|Neureichenau
+	94118|Jandelsbrunn
+	94139|Breitenberg
+	94140|Ering
+	94143|Grainet
+	94145|Haidmühle
+	94146|Hinterschmiding
+	94149|Kößlarn
+	94151|Mauth
+	94158|Philippsreut
+	94163|Saldenburg
+	94164|Sonnen
+	94239|Gotteszell
+	94239|Ruhmannsfelden
+	94239|Zachenberg
+	94250|Achslach
+	94253|Bischofsmais
+	94255|Böbrach
+	94256|Drachselsried
+	94264|Langdorf
+	94267|Prackenbach
+	94269|Rinchnach
+	94336|Windberg
+	94350|Falkenfels
+	94353|Haibach
+	94354|Haselbach
+	94357|Konzell
+	94359|Loitzendorf
+	94360|Mitterfels
+	94362|Neukirchen
+	94363|Oberschneiding
+	94366|Perasdorf
+	94371|Rattenberg
+	94372|Rattiszell
+	94374|Eckhütt
+	94374|Oberlindberg
+	94374|Schwarzach
+	94375|Stallwang
+	94379|Sankt Englmar
+	94439|Roßbach
+	94505|Bernried
+	94527|Aholming
+	94530|Auerbach
+	94532|Außernzell
+	94533|Buchhofen
+	94536|Eppenschlag
+	94539|Grafling
+	94541|Grattersdorf
+	94544|Hofkirchen
+	94545|Hohenau
+	94547|Iggensbach
+	94548|Innernzell
+	94550|Künzing
+	94551|Hunding
+	94551|Lalling
+	94551|Reigersberg
+	94553|Mariaposching
+	94556|Neuschönau
+	94562|Oberpöring
+	94571|Schaufling
+	94572|Schöfweg
+	94574|Wallerfing
+	94575|Windorf
+	94577|Winzer
+	95182|Döhlau
+	95358|Guttenberg
+	95361|Ködnitz
+	95362|Kupferberg
+	95365|Rugendorf
+	95367|Trebgast
+	95488|Eckersdorf
+	95490|Mistelgau
+	95490|Schöchleinsmühle
+	95491|Ahorntal
+	95496|Glashütten
+	95503|Hummeltal
+	95505|Immenreuth
+	95515|Plankenfels
+	95515|Schnackenwöhr
+	95517|Emtmannsberg
+	95517|Seybothenreuth
+	95519|Schlammersdorf
+	95519|Vorbach
+	95671|Bärnau
+	95685|Falkenberg
+	95688|Friedenfels
+	95689|Fuchsmühl
+	95689|Hurtingöd
+	95692|Konnersreuth
+	95694|Mehlmeisel
+	95695|Mähring
+	95698|Neualbenreuth
+	95700|Neusorg
+	95703|Auerberg
+	95703|Plößberg
+	95704|Pullenreuth
+	96126|Ermershausen
+	96126|Maroldsweisach
+	96145|Seßlach
+	96146|Altendorf
+	96146|Altendorf
+	96151|Breitbrunn
+	96154|Burgwindheim
+	96157|Ebrach
+	96158|Frensdorf
+	96160|Geiselwind
+	96161|Gerach
+	96166|Kirchlauter
+	96167|Königsfeld
+	96169|Lauter
+	96170|Lisberg
+	96170|Priesendorf
+	96172|Mühlhausen
+	96175|Pettstadt
+	96176|Pfarrweisach
+	96178|Pommersfelden
+	96181|Rauhenebrach
+	96184|Rentweinsdorf
+	96184|Rentweinsdorf
+	96185|Schönbrunn
+	96187|Stadelhofen
+	96188|Stettfeld
+	96193|Wachenroth
+	96196|Wattendorf
+	96197|Wonsees
+	96346|Wallenfels
+	96352|Wilhelmsthal
+	96367|Tschirn
+	96528|Bachfeld
+	97237|Altertheim
+	97244|Bütthard
+	97253|Gaukönigshofen
+	97259|Greußenheim
+	97264|Helmstadt
+	97268|Kirchheim
+	97277|Neubrunn
+	97280|Remlingen
+	97292|Holzkirchen
+	97292|Holzmühle
+	97292|Uettingen
+	97488|Stadtlauringen
+	97491|Aidhausen
+	97494|Bundorf
+	97496|Burgpreppach
+	97514|Markertsgrün
+	97514|Oberaurach
+	97519|Riedbach
+	97528|Sulzdorf
+	97657|Sandberg
+	97711|Maßbach
+	97711|Thundorf
+	97773|Aura
+	97775|Burgsinn
+	97776|Eußenheim
+	97778|Fellen
+	97779|Geroda
+	97780|Gössenheim
+	97782|Gräfendorf
+	97785|Mittelsinn
+	97786|Motten
+	97788|Neuendorf
+	97791|Obersinn
+	97794|Rieneck
+	97795|Schondra
+	97797|Wartmannsroth
+	97834|Birkenfeld
+	97836|Bischbrunn
+	97836|Karlshöhe
+	97836|Schleifthor
+	97839|Esselbach
+	97840|Erlenfurt
+	97840|Hafenlohr
+	97840|Lichtenau
+	97842|Karbach
+	97843|Neuhütten
+	97848|Rechtenbach
+	97851|Rothenfels
+	97852|Schleifmühle
+	97852|Schollbrunn
+	97857|Urspringen
+	97859|Wiesthal
+	97901|Altenbuch
+	97903|Collenberg
+	97907|Hasloch
+	97907|Karthause Grünau
+	97957|Bowiesen
+	98547|Christes
+	98553|Ahlstädt
+	98553|Bischofrod
+	98553|Eichenberg
+	98639|Metzels
+	98639|Rippershausen
+	98639|Wallbach
+	98646|Dingsleben
+	98667|Langenbach
+	98667|Steinbach
+	98744|Meura
+	99102|Rockhausen
+	99192|Marienthal
+	99192|Nottleben
+	99192|Osterberg
+	99195|Großrudestedt
+	99195|Großrudestedt
+	99195|Kleinrudestedt
+	99195|Kleinrudestedt
+	99195|Kranichborn
+	99195|Kranichborn
+	99195|Nöda
+	99195|Nöda
+	99195|Riethnordhausen
+	99195|Riethnordhausen
+	99195|Schwansee
+	99195|Schwansee
+	99198|Eichelborn
+	99198|Großmölsen
+	99198|Großmölsen
+	99198|Kleinmölsen
+	99198|Kleinmölsen
+	99198|Ollendorf
+	99198|Ollendorf
+	99198|Sohnstedt
+	99310|Alkersleben
+	99310|Osthausen-Wülfershausen
+	99310|Witzleben
+	99334|Elleben
+	99334|Elxleben
+	99338|Gossel
+	99428|Niederzimmern
+	99428|Ottstedt a Berge
+	99438|Buchfart
+	99438|Oettern
+	99438|Vollersroda
+	99439|Ballstedt
+	99439|Ballstedt
+	99439|Berlstedt
+	99439|Berlstedt
+	99439|Daasdorf b Buttelstedt
+	99439|Daasdorf b Buttelstedt
+	99439|Hottelstedt
+	99439|Hottelstedt
+	99439|Krautheim
+	99439|Krautheim
+	99439|Krautheim
+	99439|Leutenthal
+	99439|Leutenthal
+	99439|Nermsdorf
+	99439|Nermsdorf
+	99439|Neumark
+	99439|Neumark
+	99439|Ottmannshausen
+	99439|Ottmannshausen
+	99439|Ramsla
+	99439|Ramsla
+	99439|Rohrbach
+	99439|Rohrbach
+	99439|Schwerstedt
+	99439|Schwerstedt
+	99439|Stedten a Ettersberg
+	99439|Stedten a Ettersberg
+	99439|Vippachedelhausen
+	99439|Vippachedelhausen
+	99439|Weiden
+	99439|Weiden
+	99441|Döbritschen
+	99441|Frankendorf
+	99441|Hammerstedt
+	99441|Kiliansroda
+	99441|Mechelroda
+	99448|Rittersdorf
+	99510|Eckolstädt
+	99510|Flurstedt
+	99510|Gebstedt
+	99510|Großromstedt
+	99510|Hermstedt
+	99510|Kapellendorf
+	99510|Kösnitz
+	99510|Münchengosserstädt
+	99510|Obertrebra
+	99510|Obertrebra
+	99510|Pfuhlsborn
+	99510|Stobra
+	99510|Wiegendorf
+	99510|Wormstedt
+	99518|Eberstedt
+	99518|Ködderitzsch
+	99518|Lachstedt
+	99518|Niedertrebra
+	99625|Beichlingen
+	99625|Beichlingen
+	99625|Großneuhausen
+	99625|Großneuhausen
+	99625|Kleinneuhausen
+	99625|Kleinneuhausen
+	99625|Schillingstedt
+	99625|Schillingstedt
+	99628|Buttstädt
+	99628|Ellersleben
+	99628|Eßleben-Teutleben
+	99628|Guthmannshausen
+	99628|Hardisleben
+	99628|Mannstedt
+	99628|Olbersleben
+	99631|Günstedt
+	99631|Günstedt
+	99631|Herrnschwende
+	99631|Herrnschwende
+	99631|Nausiß
+	99631|Nausiß
+	99634|Gangloffsömmern
+	99634|Gangloffsömmern
+	99634|Henschleben
+	99634|Henschleben
+	99634|Schwerstedt
+	99634|Schwerstedt
+	99634|Werningshausen
+	99634|Werningshausen
+	99636|Ostramondra
+	99636|Ostramondra
+	99636|Rastenberg
+	99636|Rastenberg
+	99638|Büchel
+	99638|Büchel
+	99638|Frömmstedt
+	99638|Frömmstedt
+	99638|Griefstedt
+	99638|Griefstedt
+	99638|Riethgen
+	99638|Riethgen
+	99713|Abtsbessingen
+	99713|Abtsbessingen
+	99713|Bellstedt
+	99713|Bellstedt
+	99713|Freienbessingen
+	99713|Freienbessingen
+	99713|Holzsußra
+	99713|Holzsußra
+	99713|Rockstedt
+	99713|Rockstedt
+	99713|Thüringenhausen
+	99713|Thüringenhausen
+	99713|Wolferschwenda
+	99713|Wolferschwenda
+	99718|Großenehrich
+	99718|Großenehrich
+	99718|Niederbösa
+	99718|Niederbösa
+	99718|Oberbösa
+	99718|Oberbösa
+	99718|Topfstedt
+	99718|Trebra
+	99718|Trebra
+	99735|Fronderode
+	99735|Immenrode
+	99735|Mauderode
+	99752|Kehmstedt
+	99752|Kleinbodungen
+	99752|Kraja
+	99752|Lipprechterode
+	99755|Hohenstein
+	99765|Hamma
+	99837|Großensee
+	99955|Blankenburg
+	99955|Bruchstedt
+	99955|Haussömmern
+	99955|Hornsömmern
+	99955|Klettstedt
+	99955|Kutzleben
+	99955|Mittelsömmern
+	99955|Urleben
+	99976|Eigenrode
+	99976|Faulungen
+	99976|Hildebrandshausen
+	99976|Kleinkeula
+	99976|Sollstedt
+	99988|Heyerode
+	99988|Schierschwende
+	99988|Wendehausen
+	99991|Heroldishausen
+	99996|Obermehler
+	99996|Urbach

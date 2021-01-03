@@ -1,6 +1,7 @@
 ﻿using DocumentFormat.OpenXml;
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Spreadsheet;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.IO;
@@ -86,6 +87,15 @@ namespace Common
             documentStream.CopyTo(memoryStream);
 
             return documentStream.ToArray();
+        }
+
+        public static void SaveByteArrayAsExcelFile(string fileName, byte[] responseBytes)
+        {
+            FileStream fs = new FileStream(fileName, FileMode.Create, FileAccess.ReadWrite);
+            BinaryWriter bw = new BinaryWriter(fs);
+            bw.Write(responseBytes);
+            bw.Close();
+            Console.WriteLine("Done!");
         }
     }
 }

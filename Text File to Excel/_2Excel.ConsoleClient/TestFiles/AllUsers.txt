@@ -1,0 +1,1518 @@
+[
+    {
+        "Properties": [],
+        "Id": {
+            "id": "05ef0afd-88db-4386-83d1-e0bc6fcf5bf4"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "rkotschofsky@web.de",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-08T09:33:47.24032+00:00",
+        "ModifiedOn": "2017-09-08T09:33:47.24032+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3,
+            3
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "34397b94-6419-4eb4-9fbd-aecf077c0073"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "d5b8998f-ec2a-45e8-a30b-c4184e200136"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-19T20:35:18.3617612+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 1002.373,
+                                "TotalSavingAnnual": 161.727,
+                                "StandingChargeMonthly": 14.899,
+                                "UnitRatePerKWh": 0.2353,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.2,
+                                    "Netzkosten": 28.7,
+                                    "Konzessionsabgabe": 4.6,
+                                    "EEGUmlage": 24,
+                                    "AndereUmlage": 2.8,
+                                    "Stromsteuer": 7.2,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9901068000001"
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "c82b3dd4-169c-4655-94c8-3bbcd285de32"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-19T20:35:18.3617612+00:00",
+                        "AnnualConsumption": 22500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 948.965,
+                                "TotalSavingAnnual": 622.735,
+                                "StandingChargeMonthly": 10.96,
+                                "UnitRatePerKWh": 0.03633,
+                                "UsageAnnual": 22500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 35.6,
+                                    "Netzkosten": 26.2,
+                                    "Konzessionsabgabe": 0.7,
+                                    "Gassteuer": 13,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 8.5
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9870014600000"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "1",
+                        "Street": "Almeidaweg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "1",
+                        "Street": "Almeidaweg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "28e08380-0149-45a2-af69-be24bbc5d65b"
+        },
+        "FirstName": "ventsy",
+        "LastName": "popov",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "ventsypopov@hotmail.com",
+        "MobilePhoneNumber": "+4915156355698",
+        "HomeAddress": {
+            "PostCode": "82319",
+            "HouseNumber": "1",
+            "Street": "Almeidaweg",
+            "Town": "Starnberg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "DGQN76/82aeXDDLKrlsPbQ4fB9/+K4lbsG+jH5n9vQTWlyhq",
+        "PartialValidationCode": "8b12d7d7-256c-4ff8-bb3e-34e058e46012",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-19T20:35:39.4418313+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "960ea45f-7541-42fd-844d-e8c145380b5f",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-05T20:35:19.3111033+00:00",
+        "ModifiedOn": "2017-09-05T20:37:31.1129827+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "067d3bba-64ec-4f50-a30f-44bbb635f48a"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "82bf71d8-eb3e-43e3-9ce5-59b9384aee4e"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-21T12:58:01.3787531+00:00",
+                        "AnnualConsumption": 3000,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 878.422,
+                                "TotalSavingAnnual": 81.268,
+                                "StandingChargeMonthly": 12.649,
+                                "UnitRatePerKWh": 0.2422,
+                                "UsageAnnual": 3000,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12,
+                                    "Netzkosten": 24.9,
+                                    "Konzessionsabgabe": 8.2,
+                                    "EEGUmlage": 23.5,
+                                    "AndereUmlage": 2.7,
+                                    "Stromsteuer": 7,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 9.2
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": null
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "d6e9fc29-b0d9-49f4-b4cc-1c5218080e1a"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-21T12:58:01.3787531+00:00",
+                        "AnnualConsumption": 5500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 370.489,
+                                "TotalSavingAnnual": -38.927,
+                                "StandingChargeMonthly": 11.117,
+                                "UnitRatePerKWh": 0.04311,
+                                "UsageAnnual": 5500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 22.3,
+                                    "Netzkosten": 31.4,
+                                    "Konzessionsabgabe": 0.4,
+                                    "Gassteuer": 8.2,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 21.8
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": null
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "21079",
+                        "HouseNumber": "66",
+                        "Street": "Reeseberg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "21079",
+                        "HouseNumber": "66",
+                        "Street": "Reeseberg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "2035b279-a078-42f1-9a59-aafe2d2c1233"
+        },
+        "FirstName": "Riaz Naveed Malik",
+        "LastName": "Hai",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "mrhn@malik-hai.de",
+        "MobilePhoneNumber": "+491637434044",
+        "HomeAddress": {
+            "PostCode": "21079",
+            "HouseNumber": "66",
+            "Street": "Reeseberg",
+            "Town": "Hamburg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "B4tYtf6rzeQXyIioLLOSLtPRjrkbidDrRt2FVKpvEybx7jI/",
+        "PartialValidationCode": "3a5337ae-2c72-4393-a348-523951504aef",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-21T12:59:19.4213177+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "ef683f7d-3b81-4bba-ac61-4ceaac83ba98",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": "Wir benötigen Deine E-Mail - Adresse zum Versand von (vor)vertraglichen Informationen, bei Rückfragen, für Mitteilungen zum Auftragsstatus oder zur Information über ähnliche Produkte und Services.Du kannst der Verwendung zur Werbung für ähnliche Produkte jederzeit durch eine Email an info@4hundred.eu - oder durch Klick auf den Abmeldelink in einer der E- Mails - widersprechen, ohne dass hierfür andere als die Übermittlungskosten nach den Basistarifen entstehen.",
+        "CreatedOn": "2017-09-07T12:58:01.4100059+00:00",
+        "ModifiedOn": "2017-09-07T12:59:19.4213177+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "8c90b684-adf1-4528-a16c-5c0d7b741acd"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "e2ddc807-c402-41bd-b729-29f0b8d0c76b"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-25T21:24:06.7699897+00:00",
+                        "AnnualConsumption": 11500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 2937.229,
+                                "TotalSavingAnnual": 517.571,
+                                "StandingChargeMonthly": 12.649,
+                                "UnitRatePerKWh": 0.2422,
+                                "UsageAnnual": 11500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 13.7,
+                                    "Netzkosten": 24,
+                                    "Konzessionsabgabe": 9.4,
+                                    "EEGUmlage": 26.9,
+                                    "AndereUmlage": 3.1,
+                                    "Stromsteuer": 8,
+                                    "MWST": 16.7,
+                                    "Grundgebuehr": 2.7
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9900259000002"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "22175",
+                        "HouseNumber": "14 b",
+                        "Street": "Haselnußweg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "22175",
+                        "HouseNumber": "14 b",
+                        "Street": "Haselnußweg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "b8669709-471f-4c95-96c0-68b79440a8dd"
+        },
+        "FirstName": "Thomas",
+        "LastName": "de Vries",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "t.devries@online.de",
+        "MobilePhoneNumber": "+491743538512",
+        "HomeAddress": {
+            "PostCode": "22175",
+            "HouseNumber": "14 b",
+            "Street": "Haselnußweg",
+            "Town": "Hamburg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "ILVk405ao99qMr5mVsS4sBwE+3K+530M+B6EFGpNMkxmyqVG",
+        "PartialValidationCode": "bdbb21d2-4766-4fbb-9c04-9dd26b447115",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-25T21:25:05.776927+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "7c313e77-5c88-4be6-b3b3-02979b847bef",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-11T21:24:06.8637745+00:00",
+        "ModifiedOn": "2017-09-11T21:25:05.776927+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "2101e31f-5b0c-4d0a-926e-a82d168a9427"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "fe2377f0-5f18-4a4e-9853-f8cce129a94b"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-21T12:33:00.6383047+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 1002.373,
+                                "TotalSavingAnnual": 161.727,
+                                "StandingChargeMonthly": 14.899,
+                                "UnitRatePerKWh": 0.2353,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.2,
+                                    "Netzkosten": 28.7,
+                                    "Konzessionsabgabe": 4.6,
+                                    "EEGUmlage": 24,
+                                    "AndereUmlage": 2.8,
+                                    "Stromsteuer": 7.2,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9901068000001"
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "48c252a1-57c0-4a2f-88d5-12b8f89b2771"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-21T12:33:00.6383047+00:00",
+                        "AnnualConsumption": 22500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 948.965,
+                                "TotalSavingAnnual": 622.735,
+                                "StandingChargeMonthly": 10.96,
+                                "UnitRatePerKWh": 0.03633,
+                                "UsageAnnual": 22500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 35.6,
+                                    "Netzkosten": 26.2,
+                                    "Konzessionsabgabe": 0.7,
+                                    "Gassteuer": 13,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 8.5
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9870014600000"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "1",
+                        "Street": "Almeidaweg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "1",
+                        "Street": "Almeidaweg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "cb5d65af-7d85-4ce9-8d05-da36234a890f"
+        },
+        "FirstName": "Ventsy",
+        "LastName": "Popov",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "vpopov@obecto.com",
+        "MobilePhoneNumber": "+4915156355698",
+        "HomeAddress": {
+            "PostCode": "82319",
+            "HouseNumber": "1",
+            "Street": "Almeidaweg",
+            "Town": "Starnberg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "tCKGxdF/hhY7m2oG4ZHpsRKao6gMkwgkso7BWsz7OvfMAoBG",
+        "PartialValidationCode": "86cf8814-63ac-409a-8f52-f7c210465f55",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-21T12:34:17.9336072+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "3c1e0b81-d8a7-4cef-bc70-d66ed771d55a",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-07T12:33:00.7947741+00:00",
+        "ModifiedOn": "2017-09-07T12:34:17.9336072+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "1872bb04-076e-4ba2-9613-d43552d385b3"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "wolfgangguell@hotmail.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-12T08:37:58.3550846+00:00",
+        "ModifiedOn": "2017-09-12T08:37:58.3550846+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "e6a15de2-b695-4b77-99e0-5a3da7c98535"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "jfelix2606@aol.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-12T13:50:09.7613145+00:00",
+        "ModifiedOn": "2017-09-12T13:50:09.7613145+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "8b4ad772-0c34-47aa-8f1c-fcdf775da6ca"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "daniel@marschalt.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-06T06:42:08.3045841+00:00",
+        "ModifiedOn": "2017-09-06T06:42:08.3045841+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "7a714f22-d23b-4b5d-bab8-10f4e505adbb"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "34c0c4c1-9be3-4f9e-904c-c18dda04aa9c"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-19T21:14:30.7737021+00:00",
+                        "AnnualConsumption": 4250,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 1178.856,
+                                "TotalSavingAnnual": 209.194,
+                                "StandingChargeMonthly": 14.899,
+                                "UnitRatePerKWh": 0.2353,
+                                "UsageAnnual": 4250,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.6,
+                                    "Netzkosten": 28.3,
+                                    "Konzessionsabgabe": 4.8,
+                                    "EEGUmlage": 24.8,
+                                    "AndereUmlage": 2.9,
+                                    "Stromsteuer": 7.4,
+                                    "MWST": 16.7,
+                                    "Grundgebuehr": 6.8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9901068000001"
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "cc6e09ad-af21-4fcf-9e83-7e5492ddcd71"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-19T21:14:30.7893284+00:00",
+                        "AnnualConsumption": 12000,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 567.487,
+                                "TotalSavingAnnual": 342.713,
+                                "StandingChargeMonthly": 10.96,
+                                "UnitRatePerKWh": 0.03633,
+                                "UsageAnnual": 12000,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 31.7,
+                                    "Netzkosten": 25.8,
+                                    "Konzessionsabgabe": 0.6,
+                                    "Gassteuer": 11.6,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 14.2
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9870014600000"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "10",
+                        "Street": "Ernst-Heimeran-Weg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "82319",
+                        "HouseNumber": "10",
+                        "Street": "Ernst-Heimeran-Weg",
+                        "Town": "Starnberg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "d6e8a885-e0a6-43c9-bcc6-b7293c7ea932"
+        },
+        "FirstName": "Andrew",
+        "LastName": "Mack",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "andrew.mack@4hundred.eu",
+        "MobilePhoneNumber": "+4915156355698",
+        "HomeAddress": {
+            "PostCode": "82319",
+            "HouseNumber": "10",
+            "Street": "Ernst-Heimeran-Weg",
+            "Town": "Starnberg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "o5Hnf/nVytMqei2LGTwTqul7EtA0Oh5r+6Kf/rRJuF99iS1c",
+        "PartialValidationCode": "6279e9b6-f5ae-4639-bc8f-debb6d85852b",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-19T21:14:59.4040805+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "e7c117d2-a30a-4a96-8d6b-04b83325bbbb",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-05T21:14:31.3362281+00:00",
+        "ModifiedOn": "2017-09-05T21:14:59.4040805+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "02401420-cd95-4af9-9953-91cea63ffb16"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "b3d0279c-1a14-41a9-a0e2-d35acd738a5c"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-25T07:19:21.3106396+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 1014.308,
+                                "TotalSavingAnnual": 54.662,
+                                "StandingChargeMonthly": 13.221,
+                                "UnitRatePerKWh": 0.2445,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.1,
+                                    "Netzkosten": 25.6,
+                                    "Konzessionsabgabe": 8.2,
+                                    "EEGUmlage": 23.7,
+                                    "AndereUmlage": 2.8,
+                                    "Stromsteuer": 7.1,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9907248000001"
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "0925f2ca-3fe4-4731-9678-aa3d8a075a5b"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-25T07:19:21.3106396+00:00",
+                        "AnnualConsumption": 22500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 970.623,
+                                "TotalSavingAnnual": 316.427,
+                                "StandingChargeMonthly": 11.931,
+                                "UnitRatePerKWh": 0.03678,
+                                "UsageAnnual": 22500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 34.8,
+                                    "Netzkosten": 27.5,
+                                    "Konzessionsabgabe": 0.7,
+                                    "Gassteuer": 12.7,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 8.3
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9870033100007"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "81675",
+                        "HouseNumber": "5",
+                        "Street": "Haidhauser Str.",
+                        "Town": "München",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "81675",
+                        "HouseNumber": "5",
+                        "Street": "Haidhauser Str.",
+                        "Town": "München",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "0234cc82-7f22-4f24-a0d8-ef3272c3ad09"
+        },
+        "FirstName": "Daniel",
+        "LastName": "Marschalt",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "facebook@marschalt.com",
+        "MobilePhoneNumber": "+491795429920",
+        "HomeAddress": {
+            "PostCode": "81675",
+            "HouseNumber": "5",
+            "Street": "Haidhauser Str.",
+            "Town": "München",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "gBPlCDUig43hX1bbEypR+f0jrldin1DHIjIGlMCLfIeJXoID",
+        "PartialValidationCode": "c0fb61c4-93c7-4ad6-b2f4-26990dd670ce",
+        "IsValidated": false,
+        "Journey": {
+            "Step": "Verify Your Email Address",
+            "JourneyStatus": "Waiting For Validation",
+            "StartDate": "2017-09-25T07:19:22.1075675+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "663c8ab1-7a57-418b-9349-52590f5eb51b",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-11T07:19:22.1075675+00:00",
+        "ModifiedOn": "2017-09-11T07:19:22.1075675+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "4c583cce-c832-4372-83d7-8858faa6088c"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "hohnloser@gmx.de",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-11T11:20:44.5131976+00:00",
+        "ModifiedOn": "2017-09-11T11:20:44.5131976+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "9cee51e3-2e70-4ec3-8915-076c1f4f6405"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "paul.geymayer@gmx.net",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-11T11:41:04.1977633+00:00",
+        "ModifiedOn": "2017-09-11T11:41:04.1977633+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "f18a4a5f-fe7d-433a-b4cb-0baf658054f6"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "minjad@gmx.de",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-06T11:47:36.4942071+00:00",
+        "ModifiedOn": "2017-09-06T11:47:36.4942071+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "d7e5f920-d99d-44e2-8075-d00c1e1c19c9"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "a28ec020-c48d-429c-932f-ac7470922371"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-19T20:29:20.0262768+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 1014.308,
+                                "TotalSavingAnnual": 54.662,
+                                "StandingChargeMonthly": 13.221,
+                                "UnitRatePerKWh": 0.2445,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.1,
+                                    "Netzkosten": 25.6,
+                                    "Konzessionsabgabe": 8.2,
+                                    "EEGUmlage": 23.7,
+                                    "AndereUmlage": 2.8,
+                                    "Stromsteuer": 7.1,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9907248000001"
+                            }
+                        ]
+                    },
+                    {
+                        "Id": {
+                            "id": "fef126d3-79a5-4574-973a-b0fe59d58e95"
+                        },
+                        "EnergyType": "Gas",
+                        "SupplyStartDate": "2017-09-19T20:29:20.0419035+00:00",
+                        "AnnualConsumption": 22500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 970.623,
+                                "TotalSavingAnnual": 316.427,
+                                "StandingChargeMonthly": 11.931,
+                                "UnitRatePerKWh": 0.03678,
+                                "UsageAnnual": 22500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 34.8,
+                                    "Netzkosten": 27.5,
+                                    "Konzessionsabgabe": 0.7,
+                                    "Gassteuer": 12.7,
+                                    "MWST": 16,
+                                    "Grundgebuehr": 8.3
+                                },
+                                "EnergyType": "Gas",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": 0,
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9870033100007"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "80939",
+                        "HouseNumber": "4",
+                        "Street": "Werner-Heisenberg-Allee",
+                        "Town": "München",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "80939",
+                        "HouseNumber": "4",
+                        "Street": "Werner-Heisenberg-Allee",
+                        "Town": "München",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "3f19bd32-239b-4fac-a6d0-aff28da8125e"
+        },
+        "FirstName": "Borislav",
+        "LastName": "Nanovski",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "b_nan@abv.bg",
+        "MobilePhoneNumber": "+4915156355698",
+        "HomeAddress": {
+            "PostCode": "80939",
+            "HouseNumber": "4",
+            "Street": "Werner-Heisenberg-Allee",
+            "Town": "München",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "N2S0EJzwmm5sIHOd8CZBGSu22HY7dj4FVtVQAaztLTZv5vWl",
+        "PartialValidationCode": "0b7c89bd-d6c2-4bc8-8845-86fdbdb79ceb",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-19T20:29:49.970271+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "b4d40982-690a-438f-b748-bdb4d5f90beb",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-05T20:29:21.1845628+00:00",
+        "ModifiedOn": "2017-09-05T20:32:17.391128+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "0ebb0e8a-9320-45eb-b814-b3d5cf5b1d03"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "rbrendle.brendle@googlemail.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-08T14:01:48.1743283+00:00",
+        "ModifiedOn": "2017-09-08T14:01:48.1743283+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "2eb43fd7-0525-4124-bdbe-dbeaaa953026"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "07f6d205-3143-4fd7-b4b5-0ac66f472ad5"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-22T12:22:34.4883227+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 920.56,
+                                "TotalSavingAnnual": 60.89,
+                                "StandingChargeMonthly": 10.198,
+                                "UnitRatePerKWh": 0.2281,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 13.3,
+                                    "Netzkosten": 19.7,
+                                    "Konzessionsabgabe": 9.1,
+                                    "EEGUmlage": 26.2,
+                                    "AndereUmlage": 3.1,
+                                    "Stromsteuer": 7.8,
+                                    "MWST": 16.7,
+                                    "Grundgebuehr": 8.8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9900153000009"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "40211",
+                        "HouseNumber": "45",
+                        "Street": "Leopoldstraße",
+                        "Town": "Düsseldorf",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "40211",
+                        "HouseNumber": "45",
+                        "Street": "Leopoldstraße",
+                        "Town": "Düsseldorf",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "60cf9563-eed1-4587-97d8-4d868521abd1"
+        },
+        "FirstName": "Florian",
+        "LastName": "Delmes",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "floriandelmes@gmail.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": {
+            "PostCode": "40211",
+            "HouseNumber": "45",
+            "Street": "Leopoldstraße",
+            "Town": "Düsseldorf",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "Zhm+bbatRl4hF/5ABD/IvcgUI9XJf9YrvtqLJGovaZ5raXL1",
+        "PartialValidationCode": "4525f8c5-7f76-4b62-b61a-a903b1468a90",
+        "IsValidated": false,
+        "Journey": {
+            "Step": "Verify Your Email Address",
+            "JourneyStatus": "Waiting For Validation",
+            "StartDate": "2017-09-22T12:22:34.6133311+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "e02d0ac5-c397-4d09-8f8e-1125371e10bf",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-08T12:22:34.6133311+00:00",
+        "ModifiedOn": "2017-09-08T12:22:34.6133311+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "f97ff3f2-4d25-4aa4-89fb-ce111bc3fd27"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "mayachristmann1963@gmail.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-12T23:29:10.256046+00:00",
+        "ModifiedOn": "2017-09-12T23:29:10.256046+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3
+        ]
+    },
+    {
+        "Properties": [],
+        "Id": {
+            "id": "15225d3c-eac1-4b4e-90eb-2de436f9e5b5"
+        },
+        "FirstName": null,
+        "LastName": null,
+        "Gender": "NotSpecified",
+        "UserType": 1,
+        "Title": "No title",
+        "Email": "rainer_friedland@hotmail.com",
+        "MobilePhoneNumber": null,
+        "HomeAddress": null,
+        "PreferredLanguage": "German",
+        "Password": null,
+        "PartialValidationCode": null,
+        "IsValidated": false,
+        "Journey": null,
+        "ReferralTrack": null,
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-12T13:42:34.8308478+00:00",
+        "ModifiedOn": "2017-09-12T13:42:34.8308478+00:00",
+        "HasActiveNewsletterSubscription": true,
+        "NotificationsTypes": [
+            1,
+            3
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "6e132a8c-6c1f-4023-9e72-6c6dd76eb8b0"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "4b68cff4-0d75-4b91-87c7-a64509158269"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-22T12:46:48.3228556+00:00",
+                        "AnnualConsumption": 3500,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 977.525,
+                                "TotalSavingAnnual": 163.525,
+                                "StandingChargeMonthly": 12.134,
+                                "UnitRatePerKWh": 0.2377,
+                                "UsageAnnual": 3500,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 12.5,
+                                    "Netzkosten": 23.4,
+                                    "Konzessionsabgabe": 8.6,
+                                    "EEGUmlage": 24.6,
+                                    "AndereUmlage": 2.9,
+                                    "Stromsteuer": 7.3,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 8.2
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9900080000007"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "13088",
+                        "HouseNumber": "109",
+                        "Street": "Hansastraße",
+                        "Town": "Berlin",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "13088",
+                        "HouseNumber": "109",
+                        "Street": "Hansastraße",
+                        "Town": "Berlin",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "32b109d1-d182-4a79-9118-3406db0aef9e"
+        },
+        "FirstName": "Nicole",
+        "LastName": "Brabant",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "nicolebrabant@gmx.de",
+        "MobilePhoneNumber": "+491782812005",
+        "HomeAddress": {
+            "PostCode": "13088",
+            "HouseNumber": "109",
+            "Street": "Hansastraße",
+            "Town": "Berlin",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "uBzTN2Fze1R8Nchfcq+v4mIwDNsgyzqjEMKWlTM9KPQU11Bc",
+        "PartialValidationCode": "e36cf498-aecb-43c2-9fc5-b53bd8c4e256",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-22T12:53:18.975393+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "31cb1520-637b-4f9c-92ca-31c0bce6f62f",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-08T12:46:48.5102896+00:00",
+        "ModifiedOn": "2017-09-08T12:53:18.975393+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4,
+            3
+        ]
+    },
+    {
+        "Properties": [
+            {
+                "Id": {
+                    "id": "0b08ba33-e3a3-414d-abdc-5e6e54e67e44"
+                },
+                "Subscriptions": [
+                    {
+                        "Id": {
+                            "id": "e08a0e8e-c2f3-4b93-9742-93305d0586a6"
+                        },
+                        "EnergyType": "Electricity",
+                        "SupplyStartDate": "2017-09-24T19:53:35.4522726+00:00",
+                        "AnnualConsumption": 2200,
+                        "NighttimeAnnualConsumption": 0,
+                        "Quotes": [
+                            {
+                                "TotalBillEstimateAnnual": 684.652,
+                                "TotalSavingAnnual": 58.268,
+                                "StandingChargeMonthly": 12.649,
+                                "UnitRatePerKWh": 0.2422,
+                                "UsageAnnual": 2200,
+                                "MoneyBreakdown": {
+                                    "Energiepreis": 11.2,
+                                    "Netzkosten": 25.3,
+                                    "Konzessionsabgabe": 7.7,
+                                    "EEGUmlage": 22.1,
+                                    "AndereUmlage": 2.6,
+                                    "Stromsteuer": 6.6,
+                                    "MWST": 16.6,
+                                    "Grundgebuehr": 11.8
+                                },
+                                "EnergyType": "Electricity",
+                                "ValidForYear": 2017,
+                                "NighttimeUnitRatePerKWh": "NaN",
+                                "NighttimeUsageAnnual": 0,
+                                "NetworkOperatorNumber": "9900259000002"
+                            }
+                        ]
+                    }
+                ],
+                "Addresses": [
+                    {
+                        "PostCode": "22391",
+                        "HouseNumber": "11",
+                        "Street": "Kaspar-Ohm-Weg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 1
+                    },
+                    {
+                        "PostCode": "22391",
+                        "HouseNumber": "11",
+                        "Street": "Kaspar-Ohm-Weg",
+                        "Town": "Hamburg",
+                        "Country": "Germany",
+                        "Type": 2
+                    }
+                ]
+            }
+        ],
+        "Id": {
+            "id": "4933a05c-6a11-446a-8325-32737e537bef"
+        },
+        "FirstName": "Jan-Willem",
+        "LastName": "Böttjer",
+        "Gender": "NotSpecified",
+        "UserType": 4,
+        "Title": "No title",
+        "Email": "jan.boettjer@gmail.com",
+        "MobilePhoneNumber": "+4915779809139",
+        "HomeAddress": {
+            "PostCode": "22391",
+            "HouseNumber": "11",
+            "Street": "Kaspar-Ohm-Weg",
+            "Town": "Hamburg",
+            "Country": "Germany",
+            "Type": 0
+        },
+        "PreferredLanguage": "German",
+        "Password": "v7Arsz+xWKmCgxqiwr5mEViytaZEvVX2x83w+vWk4YsGrXj9",
+        "PartialValidationCode": "d2409f61-56ef-4f43-a617-89a6e83cfb24",
+        "IsValidated": true,
+        "Journey": {
+            "Step": "Notify Your Previous Supplier",
+            "JourneyStatus": "We Will Email You Once This Is Completed",
+            "StartDate": "2017-09-24T19:55:11.5323939+00:00"
+        },
+        "ReferralTrack": {
+            "ReferralCode": "0f68c6e9-13d8-4498-9ad9-4638fc731700",
+            "ReferredByCode": null,
+            "ReferralsClicks": 0,
+            "RegisteredReferralUserIds": []
+        },
+        "RegistrationIP": null,
+        "RegistrationDisclaimer": null,
+        "CreatedOn": "2017-09-10T19:53:35.7022437+00:00",
+        "ModifiedOn": "2017-09-10T19:55:11.5323939+00:00",
+        "HasActiveNewsletterSubscription": false,
+        "NotificationsTypes": [
+            1,
+            4,
+            3
+        ]
+    }
+]

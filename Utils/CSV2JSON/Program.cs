@@ -1,4 +1,6 @@
-﻿using Nancy.Json;
+﻿
+using Nancy.Json;
+using Spire.Xls;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -11,33 +13,55 @@ namespace CSV2JSON
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\lkiko\Desktop\4hundred\Unsorted\aktif-all-14-jan-2020.csv";
+            //Workbook workbook = new Workbook();
+
+
+            //workbook.LoadFromFile(@"C:\Users\lkiko\Downloads\Trustpilot30.11.20.xlsx");
+
+
+            //Worksheet sheet = workbook.Worksheets[0];
+
+
+            //sheet.SaveToFile(@"C:\Users\lkiko\Downloads\Trustpilot30.11.20.csv", ",", Encoding.UTF8);
+            Work1();
+        }
+
+        private static void Work1()
+        {
+            FileStream fileStream;
+            StreamReader streamReader;
+            CSV2JSON(out fileStream, out streamReader);
+        }
+
+        private static void CSV2JSON(out FileStream fileStream, out StreamReader streamReader)
+        {
+            string path = @"C: \Users\lkiko\Downloads\Trustpilot30.11.20.csv";
             string textFilePath = path;
             const Int32 BufferSize = 128;
-
-            using var fileStream = File.OpenRead(textFilePath);
-            using var streamReader = new StreamReader(fileStream, Encoding.UTF8, true, BufferSize);
-            String line;
+            fileStream = null; // File.OpenRead(textFilePath);
+            streamReader = null; // new StreamReader(fileStream, Encoding.UTF8, true, BufferSize);
+         //   String line;
+            int counter = 0;
             Dictionary<string, string> jsonRow = new Dictionary<string, string>();
+            var lns = new List<string>();
 
-            while ((line = streamReader.ReadLine()) != null)
+
+
+            foreach (string line1 in File.ReadLines(@"C:\Users\lkiko\Desktop\4hundred\unsorted\Trustpilot30.11.20.txt"))
             {
-
-                string[] parts = line.Split(',');
-
-                string key_ = parts[0];
-                string value = parts[1];
-
-
-                if (!jsonRow.Keys.Contains(key_))
+                if (counter != 0)
                 {
-                    jsonRow.Add(key_, value);
+                    string[] parts = line1.Split(',');
+                    string str = $"{parts[0]},;{parts[1]},;{parts[2]}";
+                    lns.Add(str);
                 }
-
+                counter++;
             }
-            var json = new JavaScriptSerializer().Serialize(jsonRow);
-            string path_ = @"C:\Users\lkiko\Desktop\4hundred\Unsorted\aktif-all-14-jan-2020.json";
-            File.WriteAllText(path_, json);
+
+            System.IO.File.WriteAllLines(@"C:\Users\lkiko\Desktop\4hundred\unsorted\Trustpilot-reworked30.11.20.txt", lns.ToArray());
+            //var json = new JavaScriptSerializer().Serialize(jsonRow);
+            //string path_ = @"C:\Users\lkiko\Desktop\4hundred\Unsorted\aktif-all-14-jan-2020.json";
+            //File.WriteAllText(path_, json);
         }
     }
 }
