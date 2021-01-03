@@ -1,4 +1,0 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="ProductList.aspx.cs" Inherits="WingTipToys.WebApp.ProductList" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-q
-</asp:Content>

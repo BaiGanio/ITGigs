@@ -1,1 +1,0 @@
-CreateTable SuchMasa plastic 20.56 12.00 0.11 0.12
