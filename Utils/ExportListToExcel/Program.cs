@@ -33,6 +33,9 @@ namespace ExportListToExcel
 
         public List<ExternalIds> ExtIds { get; set; }
         public string MaloId { get; set; }
+        public string LeadSource { get; set; }
+        public string SubscrLeadSource { get; set; }
+        public string CreatedOn { get; set; }
     }
 
     class Program
@@ -147,7 +150,7 @@ namespace ExportListToExcel
         {
             try
             {
-                string file = @"C:\Users\lkiko\Desktop\4hundred\local-files\users-21-Oct-20.json";
+                string file = @"C:\Users\lkiko\Desktop\\Octopus\local-files\users-01-Mar-21.json";
                 string json = "";
                 using (StreamReader r = new StreamReader(file))
                 {
@@ -158,50 +161,100 @@ namespace ExportListToExcel
                 dynamic dynJson = JsonConvert.DeserializeObject(json);
                 foreach (var user in dynJson)
                 {
-                    foreach (var prop in user.Properties)
+                    if (user.LeadSource == "4hundred.com")
+                    {
+                        foreach (var prop in user.Properties)
                     {
                         foreach (var subscr in prop.Subscriptions)
                         {
-                            if (string.IsNullOrEmpty(Convert.ToString(subscr.MaloId))
-                                && (Convert.ToString(user.UserType) == "4" || Convert.ToString(user.UserType) == "5")
-                                && (user.Journey != null && JsonConvert.DeserializeObject(Convert.ToString(user.Journey)).Step == "Sit back and relax")
-                                && (Convert.ToString(user.IndustryProvider) == "1")
-                                )
+                                if (true)
+                                {
+
+                                }
+                            //if (string.IsNullOrEmpty(Convert.ToString(subscr.MaloId))
+                            //    && (Convert.ToString(user.UserType) == "4" || Convert.ToString(user.UserType) == "5")
+                            //    && (user.Journey != null && JsonConvert.DeserializeObject(Convert.ToString(user.Journey)).Step == "Sit back and relax")
+                            //    && (Convert.ToString(user.IndustryProvider) == "1")
+                            //    )
+                            //{
+
+                            //}
+
+                            List<ExternalIds> j = JsonConvert.DeserializeObject<List<ExternalIds>>(Convert.ToString(subscr.ExternalIds));
+                            if (j == null)
                             {
-                                counter++;
-                                var j = JsonConvert.DeserializeObject<List<ExternalIds>>(Convert.ToString(user.ExternalIds));
                                 exports.Add(
-                                       new UserExport
-                                       {
-                                           UserId = user.Id.id,
-                                           Firstname = user.FirstName,
-                                           Lastname = user.LastName,
-                                           Email = user.Email,
-                                           UserType = user.UserType,
-                                           PropertyId = prop.Id.id,
-                                           SubscriptionId = subscr.Id.id,
-                                           EnergyType = subscr.EnergyType,
-                                           SupplyStartDate = subscr.SupplyStartDate,
-                                           SupplyEndDate = subscr.SupplyEndDate,
-                                           IndustryProvider = user.IndustryProvider,
-                                           Journey = user.Journey == null ? String.Empty : JsonConvert.DeserializeObject(Convert.ToString(user.Journey)).Step,
-                                           ExtIds = j
-                                       });
+                                  new UserExport
+                                  {
+                                      UserId = user.Id.id,
+                                      Firstname = user.FirstName,
+                                      Lastname = user.LastName,
+                                      Email = user.Email,
+                                      LeadSource = user.LeadSource,
+                                      UserType = user.UserType,
+                                      PropertyId = prop.Id.id,
+                                      SubscriptionId = subscr.Id.id,
+                                      SubscrLeadSource = subscr.LeadSource,
+                                      EnergyType = subscr.EnergyType,
+                                      SupplyStartDate = subscr.SupplyStartDate,
+                                      SupplyEndDate = subscr.SupplyEndDate,
+                                      IndustryProvider = user.IndustryProvider,
+                                      Journey = user.Journey == null ? String.Empty : JsonConvert.DeserializeObject(Convert.ToString(user.Journey)).Step,
+                                      ExtIds = j,
+                                      CreatedOn = user.CreatedOn
+                                  });
+                                continue;
+                            }
+                       
+                            foreach (var item in j)
+                            {
+                                if (item.Name.Contains("powercloud.orderId") || item.Name.Contains("Aktif") || item.Name.Contains("powercloud.contractId") || item.Name.Contains("Check24") || item.Name.Contains("Verivox") || item.Name.Contains("Uppr") || item.Name.Contains("StandingOnGiants"))
+                                {
+
+
+                                }
+                                else
+                                {
+                                    exports.Add(
+                                   new UserExport
+                                   {
+                                       UserId = user.Id.id,
+                                       Firstname = user.FirstName,
+                                       Lastname = user.LastName,
+                                       Email = user.Email,
+                                       LeadSource = user.LeadSource,
+                                       UserType = user.UserType,
+                                       PropertyId = prop.Id.id,
+                                       SubscriptionId = subscr.Id.id,
+                                       EnergyType = subscr.EnergyType,
+                                       SupplyStartDate = subscr.SupplyStartDate,
+                                       SupplyEndDate = subscr.SupplyEndDate,
+                                       IndustryProvider = user.IndustryProvider,
+                                       Journey = user.Journey == null ? String.Empty : JsonConvert.DeserializeObject(Convert.ToString(user.Journey)).Step,
+                                       ExtIds = j,
+                                       SubscrLeadSource = subscr.LeadSource,
+                                       CreatedOn = user.CreatedOn
+                                   });
+                                }
+                            }
+
                             }
                         }
                     }
+
                 }
 
                 FileExporter.SaveByteArrayAsExcelFile(
-                    @"C:\Users\lkiko\Desktop\4hundred\unsorted\Exported_4hundred_new.xlsx",
+                    @"C:\Users\lkiko\Desktop\\Octopus\unsorted\came-from-website-and-missing-pcl-customer-id.xlsx",
                     FileExporter.ExportToExcel(exports)
                 );
 
                 json = JsonConvert.SerializeObject(exports.ToArray(), Formatting.Indented);
 
                 //write string to file
-                File.WriteAllText(@"C:\Users\lkiko\Desktop\4hundred\unsorted\4hundred-missing-malo-new.json", json);
+                File.WriteAllText(@"C:\Users\lkiko\Desktop\\Octopus\unsorted\came-from-website-and-missing-pcl-customer-id.json", json);
                 Console.WriteLine(counter);
+                Console.WriteLine(json);
             }
             catch (Exception ex)
             {

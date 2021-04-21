@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 
 namespace Workbench
 {
@@ -11,14 +12,76 @@ namespace Workbench
     {
         static void Main(string[] args)
         {
-            string jsonFilePath = @"C:\Users\lkiko\Desktop\4hundred\unsorted\missing-malo-or-melo-id.json";
+            CallMethods();
+        }
+
+        private static void CallMethods()
+        {
+            Print_Number_From_1_To_100_Without_Loop();
+            //DoSomething();
+            //DoJob1BasicFiltration();
+            //DoJob2Extract4hUsers();
+            //DoJob3ExtractData();
+            //DoJob4AdditionalFiltration();
+        }
+
+
+        //Print_Number_From_1_To_100_Without_Loop
+        private static void Print_Number_From_1_To_100_Without_Loop()
+        {
+            //Print_Number_From_1_To_100_Without_Loop(1);
+            //Console.WriteLine("----------");
+            //int start = 5;
+            //int end = 100;
+            //Print_Number_From_1_To_100_Without_Loop(start, end);
+
+            Print_Number_From_1_To_100_Without_Loop_Linq();
+        }
+
+        private static void Print_Number_From_1_To_100_Without_Loop_Linq()
+        {
+            var items = Enumerable.Range(1, 100)
+                                .Select(i => new StringBuilder().AppendFormat($"{i}"));
+
+            Console.WriteLine(string.Join("\n", items));
+        }
+
+
+        //Print_Number_From_1_To_100_Without_Loop - Recursion
+        private static void Print_Number_From_1_To_100_Without_Loop(int start)
+        {
+            if (start <= 100)
+            {
+                Console.WriteLine(start);
+                start++;
+                Print_Number_From_1_To_100_Without_Loop(start);
+            }
+        }
+        private static void Print_Number_From_1_To_100_Without_Loop(int start, int end)
+        {
+            if (start <= end)
+            {
+                Console.WriteLine(start);
+                start++;
+                Print_Number_From_1_To_100_Without_Loop(start, end);
+            }
+        }
+
+        private static void DoSomething()
+        {
+            DateTime? dt1 = null;
+            DateTime? dt2 = DateTime.Now;
+            DateTime? dt3 = null;
+
+            Console.WriteLine(dt1 ?? dt2 ?? dt3);
+            //string jsonFilePath = @"C:\Users\lkiko\Desktop\4hundred\unsorted\missing-malo-or-melo-id.json";
+            //string json = File.ReadAllText(jsonFilePath);
+            //List<User> basicfiltered = JsonConvert.DeserializeObject<List<User>>(json);
+
+            //Console.WriteLine(basicfiltered.Count);
+
+            string jsonFilePath = @"C:\Users\lkiko\Desktop\Octopus\local-files\users-18-Mar-21.json";
             string json = File.ReadAllText(jsonFilePath);
-            List<User> basicfiltered = JsonConvert.DeserializeObject<List<User>>(json);
-
-            Console.WriteLine(basicfiltered.Count);
-
-            jsonFilePath = @"C:\Users\lkiko\Desktop\4hundred\local-files\users-15-Sep-20.json";
-            json = File.ReadAllText(jsonFilePath);
 
 
             List<User> extracted = new List<User>();
@@ -28,68 +91,51 @@ namespace Workbench
             {
                 if (item.IndustryProvider == 0)
                 {
-                    foreach (var prop in item.Properties)
+                    if (item.Properties?.Count > 3)
                     {
-                        foreach (var subscr in prop.Subscriptions)
-                        {
-                            foreach (var filteredUser in basicfiltered)
-                            {
-                                try
-                                {
-                                    string id = subscr.Id.id;
-                                    if (HashUtils.ConvertCustomIdToInt(id).ToString() == filteredUser.ConsumerNo)
-                                    {
-                                        extracted.Add(
-                                                new User()
-                                                {
-                                                    Email = filteredUser.Email,
-                                                    MaloId = filteredUser.MaloId,
-                                                    ConsumerNo = filteredUser.ConsumerNo,
-                                                    Energy = filteredUser.Energy,
-                                                    Status = filteredUser.Status,
-                                                    AktifSupplyStart = filteredUser.AktifSupplyStart,
-                                                    AktifSupplyEnd = filteredUser.AktifSupplyEnd,
-                                                    FHSupplyStart = subscr.SupplyStartDate,
-                                                    FHSupplyEnd = subscr.SupplyEndDate,
-                                                    MeloId = subscr.MeloId,
-                                                    SubscriptionId = subscr.Id.id,
-                                                    FHEmail = item.Email,
-                                                    FHId = item.Id.id
-                                                });
 
-                                        break;
-                                    }
-                                }
-                                catch (Exception ex)
-                                {
-                                    Console.WriteLine(ex.Message);
-                                    //counter++;
-                                }
+                        foreach (var prop in item.Properties)
+                        {
+                            foreach (var subscr in prop.Subscriptions)
+                            {
+                                extracted.Add(
+                                                      new User()
+                                                      {
+                                                          Email = item.Email,
+                                                          //MaloId = item.MaloId,
+                                                          //ConsumerNo = item.ConsumerNo,
+                                                          //Energy = item.Energy,
+                                                          //Status = item.Status,
+                                                          //AktifSupplyStart = item.AktifSupplyStart,
+                                                          //AktifSupplyEnd = filteredUser.AktifSupplyEnd,
+                                                          //FHSupplyStart = subscr.item,
+                                                          //FHSupplyEnd = subscr.SupplyEndDate,
+                                                          //MeloId = subscr.MeloId,
+                                                          SubscriptionId = subscr.Id.id,
+                                                          FHEmail = item.Email,
+                                                          FHId = item.Id.id
+                                                      });
+
                             }
                         }
                     }
+
                 }
             }
 
-            Console.WriteLine(extracted.Count);
+            //Console.WriteLine(extracted.Count);
 
-            extracted = extracted.Where(x => string.IsNullOrEmpty(x.MeloId) != true).ToList();
+            //extracted = extracted.Where(x => string.IsNullOrEmpty(x.MeloId) != true).ToList();
 
-            Console.WriteLine(extracted.Count);
+            //Console.WriteLine(extracted.Count);
 
 
             string json1 = JsonConvert.SerializeObject(extracted, Formatting.Indented);
-            File.WriteAllText(@"C:\Users\lkiko\Desktop\4hundred\unsorted\newly_filtered\missing-malo-id.json", json1);
+            File.WriteAllText(@"C:\Users\lkiko\Desktop\Octopus\usrs.json", json1);
             //Console.WriteLine($"Failed: {counter} - {error}");
 
 
-            File.WriteAllBytes(@"C:\Users\lkiko\Desktop\4hundred\unsorted\newly_filtered\missing-malo-id.xls", FileExporter.ExportToExcel(extracted));
-
-
-            //DoJob1BasicFiltration();
-            //DoJob2Extract4hUsers();
-            //DoJob3ExtractData();
-            //DoJob4AdditionalFiltration();
+            //File.WriteAllBytes(@"C:\Users\lkiko\Desktop\4hundred\unsorted\newly_filtered\missing-malo-id.xls", FileExporter.ExportToExcel(extracted));
         }
 
         private static void DoJob4AdditionalFiltration()
